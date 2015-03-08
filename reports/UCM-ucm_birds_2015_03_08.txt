@@ -1,0 +1,136 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 141
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-03 ; Times: 2
+	Date: 2015-02-05 ; Times: 2
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-10 ; Times: 2
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-12 ; Times: 11
+	Date: 2015-02-13 ; Times: 4
+	Date: 2015-02-14 ; Times: 2
+	Date: 2015-02-17 ; Times: 3
+	Date: 2015-02-18 ; Times: 5
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 1
+	Date: 2015-02-25 ; Times: 2
+	Date: 2015-02-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chaetura pelagica mappable:1" ; Times: 1
+	Query: "obsoletus new mexico" ; Times: 1
+	Query: ""Empidonax traillii" type:specimen (colorado) mappable:1" ; Times: 1
+	Query: "psm Glaucidium" ; Times: 1
+	Query: "Leucosticte Oregon" ; Times: 1
+	Query: "Quiscalus quiscula stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Geococcyx californianus mappable:1" ; Times: 3
+	Query: "FMNH Riverdale" ; Times: 2
+	Query: "andigena laminirostris" ; Times: 1
+	Query: "chaetura pelagica mappable:1" ; Times: 3
+	Query: "setophaga petechia (utah) mappable:1" ; Times: 1
+	Query: "specificepithet:luxuosus genus:cyanocorax" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "melospiza melodia yakima" ; Times: 1
+	Query: "Leucosticte atrata stateprovince:"Colorado"" ; Times: 1
+	Query: "(Spinus lawrencei)" ; Times: 1
+	Query: "cook type:specimen (egg) year >= 1920 year <= 1950" ; Times: 1
+	Query: "Callipepla Californica mappable:1" ; Times: 3
+	Query: "stateprovince:"texas" specificepithet:atricristatus genus:Baeolophus" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 3
+	Query: ""Empidonax traillii" type:specimen (utah) mappable:1" ; Times: 1
+	Query: "UAM Leucosticte" ; Times: 1
+	Query: "Megascops albogularis" ; Times: 1
+	Query: "Sialia mexicana occidentalis year <= 1889" ; Times: 1
+	Query: "AM Leucosticte" ; Times: 1
+	Query: "specificepithet:fisheri" ; Times: 1
+	Query: "Melospiza melodia stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Parkesia motacilla" ; Times: 1
+	Query: "geococcyx californianus mappable:1" ; Times: 2
+	Query: "Callipepla californica mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 326 download events in this period)
+Total number of records downloaded: 238 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 238
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-11 ; Times: 3
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-17 ; Times: 2
+	Date: 2015-02-19 ; Times: 2
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 1
+	Date: 2015-02-27 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "specificepithet:fisheri" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "dendroica petechia (Colorado) mappable:1" ; Times: 1
+	Query: "Tephrodornis gularis" ; Times: 1
+	Query: "country:"Guatemala" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "Crypturellus" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "Dryocopus pileatus mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 227
+Total number of records retrieved from searches: 1342
+Number of download events that retrieved data from the resource: 40
+Total number of records downloaded: 1437
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 266
+Total number of records retrieved from searches: 1891
+Number of download events that retrieved data from the resource: 145
+Total number of records downloaded: 5165
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
