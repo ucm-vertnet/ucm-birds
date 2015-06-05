@@ -1,0 +1,157 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 153
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 47
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 2
+	Date: 2015-05-06 ; Times: 6
+	Date: 2015-05-07 ; Times: 2
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 9
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-12 ; Times: 4
+	Date: 2015-05-13 ; Times: 3
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-19 ; Times: 5
+	Date: 2015-05-20 ; Times: 5
+	Date: 2015-05-21 ; Times: 4
+	Date: 2015-05-24 ; Times: 5
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-26 ; Times: 3
+	Date: 2015-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendragapus obscurus COLORADO year >= 1800 year <= 1910" ; Times: 1
+	Query: "pericrocotus flammeus" ; Times: 3
+	Query: "J.H. Batty" ; Times: 4
+	Query: "10270" ; Times: 1
+	Query: "stateprovince:"ohio" class:aves" ; Times: 1
+	Query: "136* specificepithet:melodia" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:hendee AND (NOT dmns NOT dmnh)" ; Times: 1
+	Query: "stateprovince:"Colorado" specificepithet:pacificus genus:Troglodytes" ; Times: 1
+	Query: "aves Georgia United States Thryothorus ludovicianus" ; Times: 2
+	Query: "Pyrocephalus rubinus egg" ; Times: 1
+	Query: "aves Georgia United States sitta pusilla charles" ; Times: 1
+	Query: "condor year >= 1850 year <= 1950" ; Times: 1
+	Query: "centropus toulou" ; Times: 1
+	Query: "Falco columbarius egg" ; Times: 1
+	Query: "Spizella pallida United States Colorado" ; Times: 1
+	Query: "Dendragapus obscurus year >= 1800 year <= 1910" ; Times: 1
+	Query: "UCM snake" ; Times: 1
+	Query: "Chen caerulescens" ; Times: 1
+	Query: "3996" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 4
+	Query: "gracula religiosa" ; Times: 1
+	Query: "Muscicapa Thailand" ; Times: 1
+	Query: "aves Georgia United States Vireo philadelphicus" ; Times: 1
+	Query: "class:aves recordedby:olsen" ; Times: 1
+	Query: "copsychus malabaricus" ; Times: 2
+	Query: "Megalaima rubricapilla SKIN" ; Times: 1
+	Query: "condor egg year >= 1800 year <= 1950" ; Times: 1
+	Query: "aves Georgia United States sitta pusilla brewster" ; Times: 1
+	Query: "Batty" ; Times: 1
+	Query: "589 OR 7800 genus:Calamospiza" ; Times: 1
+	Query: "Nippissing" ; Times: 1
+	Query: "county:"morgan" stateprovince:"georgia"" ; Times: 1
+	Query: "Dendragapus obscurus year >= 1800 year <= 1920" ; Times: 1
+	Query: "university of colorado boulder" ; Times: 1
+	Query: "Nucifraga columbiana" ; Times: 3
+	Query: "egg Pyrocephalus rubinus type:specimen" ; Times: 1
+	Query: "Aquila chrysaetos AND (NOT california) mappable:1" ; Times: 3
+	Query: "aves Georgia United States Vireo solitarius" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 976 download events in this period)
+Total number of records downloaded: 1159 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 661
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 2
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 4
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-24 ; Times: 4
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-26 ; Times: 1
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "minnesota egg" ; Times: 1
+	Query: "genus:rupicola" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "stateprovince:"Colorado" specificepithet:pacificus genus:Troglodytes" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 2
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 1
+	Query: "arachnothera" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 1
+	Query: "589 OR 7800 genus:Calamospiza" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "certhia americana" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 294
+Total number of records retrieved from searches: 1510
+Number of download events that retrieved data from the resource: 85
+Total number of records downloaded: 3488
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 333
+Total number of records retrieved from searches: 2059
+Number of download events that retrieved data from the resource: 190
+Total number of records downloaded: 7216
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
