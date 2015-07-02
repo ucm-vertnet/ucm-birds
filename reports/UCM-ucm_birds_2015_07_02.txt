@@ -1,0 +1,197 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 156
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 80
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 2
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-04 ; Times: 2
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-07 ; Times: 2
+	Date: 2015-06-08 ; Times: 3
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-15 ; Times: 8
+	Date: 2015-06-17 ; Times: 2
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-21 ; Times: 9
+	Date: 2015-06-22 ; Times: 10
+	Date: 2015-06-23 ; Times: 6
+	Date: 2015-06-24 ; Times: 9
+	Date: 2015-06-25 ; Times: 6
+	Date: 2015-06-26 ; Times: 15
+	Date: 2015-06-27 ; Times: 5
+	Date: 2015-06-28 ; Times: 1
+	Date: 2015-06-29 ; Times: 4
+	Date: 2015-06-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "spinus atriceps" ; Times: 2
+	Query: "type:specimen county:"Orleans" class:Aves year >= 0 year <= 2015" ; Times: 1
+	Query: "aves Georgia United States Agelaius phoeniceus" ; Times: 1
+	Query: "aves Georgia United States Spizella passerina" ; Times: 1
+	Query: "aves Georgia United States palmarum palmarum" ; Times: 2
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "aves Georgia United States Regulus calendula" ; Times: 2
+	Query: "Paroaria dominicana" ; Times: 1
+	Query: "aves Georgia United States Piranga olivacea" ; Times: 1
+	Query: "centropus toulou" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "aves Georgia United States Melospiza melodia" ; Times: 2
+	Query: "aves Georgia United States Setophaga ruticilla" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "Natural History Museum London" ; Times: 1
+	Query: "Coragyps atratus type:specimen (egg)" ; Times: 1
+	Query: "UCM 1025" ; Times: 2
+	Query: "UCM 8625" ; Times: 1
+	Query: "aves Georgia United States motacilla" ; Times: 2
+	Query: "type:specimen class:aves catalognumber:14366" ; Times: 1
+	Query: "aves Georgia United States Piranga rubra" ; Times: 6
+	Query: "Guatemala city class:Aves" ; Times: 1
+	Query: "aves Georgia United States Spizella pusilla" ; Times: 1
+	Query: "aves Georgia United States Catharus minimus" ; Times: 2
+	Query: "Callipepla squamata pallida" ; Times: 1
+	Query: "aves Georgia United States Icterus spurius" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "vireo bellii pusillus" ; Times: 4
+	Query: "aves Georgia United States Turdus migratorius" ; Times: 2
+	Query: "aves Georgia United States Zonotrichia albicollis" ; Times: 1
+	Query: "aves Georgia United States Sturnella magna" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "muscicapa thalassina" ; Times: 1
+	Query: "vireo bellii california" ; Times: 2
+	Query: "12956" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:cedrorum genus:bombycilla (egg) AND (NOT skin NOT tissue) year >= 1837 year <= 1920" ; Times: 1
+	Query: "aves Georgia United States hypochrysea" ; Times: 2
+	Query: "aves Georgia United States Piranga rubra 18" ; Times: 1
+	Query: "acrocephalus orientalis" ; Times: 1
+	Query: "aves Georgia United States palmarum hypochrysea" ; Times: 1
+	Query: "aves Georgia United States Spiza americana" ; Times: 1
+	Query: "county:"logan" stateprovince:"Oklahoma"" ; Times: 7
+	Query: "aves Georgia United States 1877-04-11" ; Times: 1
+	Query: "aves Georgia United States Hylocichla mustelina" ; Times: 1
+	Query: "aves Georgia United States Ammodramus maritimus" ; Times: 1
+	Query: "3778 class:aves" ; Times: 2
+	Query: "aves Georgia United States Pheucticus" ; Times: 1
+	Query: "aves Georgia United States sandwichensis" ; Times: 1
+	Query: "aves Georgia United States Dumetella carolinensis" ; Times: 1
+	Query: "aves Georgia United States Geothlypis trichas" ; Times: 2
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "12243" ; Times: 1
+	Query: "asio otus" ; Times: 1
+	Query: "aves Georgia United States Geothlypis" ; Times: 1
+	Query: "Psittacula alexandri" ; Times: 2
+	Query: "cu 2404" ; Times: 1
+	Query: "11512" ; Times: 1
+	Query: "terpsiphone paradisi" ; Times: 1
+	Query: "aves Georgia United States Bombycilla" ; Times: 1
+	Query: "vireo bellii" ; Times: 1
+	Query: "aves Georgia United States Quiscalus quiscula" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "aves Georgia United States Mimus polyglottos" ; Times: 1
+	Query: "aves Georgia United States cyanea" ; Times: 1
+	Query: "aves Georgia United States Ammodramus maritimus 1877" ; Times: 1
+	Query: "Chalcostigma heteropogon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1524 download events in this period)
+Total number of records downloaded: 890 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 789
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Denmark ; Times: 16
+	Country: Germany ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-05 ; Times: 3
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-27 ; Times: 2
+	Date: 2015-06-29 ; Times: 14
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Heliangelus strophianus" ; Times: 1
+	Query: "Chaetocercus" ; Times: 1
+	Query: "type:specimen AND (aves) distance(location,geopoint(42.73087427928485,-76.2451171875))<100000" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "elanus leucurus stateprovince:"California"" ; Times: 1
+	Query: "Chlorostilbon gibsoni" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "aves Coahuila" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "Veracruz mammals" ; Times: 1
+	Query: "Calypte costae" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "Chlorostilbon stenura" ; Times: 2
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "Thalurania colombica" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "Chalcostigma heteropogon" ; Times: 1
+	Query: "Hylocharis grayi" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 390
+Total number of records retrieved from searches: 1666
+Number of download events that retrieved data from the resource: 119
+Total number of records downloaded: 4378
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 429
+Total number of records retrieved from searches: 2215
+Number of download events that retrieved data from the resource: 224
+Total number of records downloaded: 8106
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
