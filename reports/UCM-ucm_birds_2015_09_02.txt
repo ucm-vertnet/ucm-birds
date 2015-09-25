@@ -1,0 +1,162 @@
+Report for Institution Code UCM, Resource Bird specimens
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 139
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 56
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 3
+	Date: 2015-08-03 ; Times: 14
+	Date: 2015-08-04 ; Times: 2
+	Date: 2015-08-05 ; Times: 2
+	Date: 2015-08-07 ; Times: 1
+	Date: 2015-08-10 ; Times: 2
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-12 ; Times: 6
+	Date: 2015-08-17 ; Times: 2
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-20 ; Times: 1
+	Date: 2015-08-21 ; Times: 4
+	Date: 2015-08-22 ; Times: 1
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 2
+	Date: 2015-08-25 ; Times: 1
+	Date: 2015-08-26 ; Times: 2
+	Date: 2015-08-27 ; Times: 1
+	Date: 2015-08-28 ; Times: 2
+	Date: 2015-08-29 ; Times: 3
+	Date: 2015-08-30 ; Times: 1
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Hirundinidae Thailand" ; Times: 2
+	Query: "Sturnella neglecta year >= 1895 year <= 1895" ; Times: 1
+	Query: "ammodramus colorado year >= 1870 year <= 1875" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "Ammodramus bairdii" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "falco sparverius year >= 1880 year <= 1900" ; Times: 1
+	Query: "falco sparverius type:specimen (bird specimen) year >= 1880 year <= 1900" ; Times: 1
+	Query: "county:"clackamas" stateprovince:"oregon" class:Aves year >= 1895 year <= 1898" ; Times: 2
+	Query: "catalognumber:8479" ; Times: 3
+	Query: "catharus bicknelli" ; Times: 2
+	Query: "falco sparverius type:specimen stateprovince:"California" AND (NOT eggs) year >= 1880 year <= 1900" ; Times: 1
+	Query: "crypsirina temia" ; Times: 2
+	Query: "falco sparverius type:specimen stateprovince:"California" (bird specimen) AND (NOT egg) year >= 1880 year <= 1900" ; Times: 1
+	Query: "male asio flammeus" ; Times: 1
+	Query: "pelecanus (skel OR skeleton)" ; Times: 1
+	Query: "13148" ; Times: 1
+	Query: "Cyanolyca viridicyanus" ; Times: 1
+	Query: "Picoides nuttallii" ; Times: 8
+	Query: "erethizon dorsatum colorado" ; Times: 1
+	Query: "vireo pusillus" ; Times: 3
+	Query: "county:"Hamilton" stateprovince:"Ohio" year <= 2015" ; Times: 1
+	Query: "7754" ; Times: 1
+	Query: "mike AND varia" ; Times: 1
+	Query: "copsychus malabaricus" ; Times: 1
+	Query: "bonasa umbellus type:specimen" ; Times: 1
+	Query: "El Paso County Texas Aves" ; Times: 2
+	Query: "ammodramus year >= 1870 year <= 1875" ; Times: 1
+	Query: "Callipepla californica Mexico" ; Times: 2
+	Query: "Sturnella neglecta year <= 1895" ; Times: 1
+	Query: "catalognumber:8568" ; Times: 1
+	Query: ""Picoides dorsalis"" ; Times: 4
+	Query: "viridiflavus type:specimen country:"Colombia" class:Aves year >= 1900 year <= 2000" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:melanoleuca genus:Tringa" ; Times: 1
+	Query: "CALLIPEPLA CALIFORNICA MEXICO" ; Times: 1
+	Query: "Haemorhous mexicanus 12" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1138 download events in this period)
+Total number of records downloaded: 2089 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1130
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 45
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-04 ; Times: 3
+	Date: 2015-08-05 ; Times: 3
+	Date: 2015-08-06 ; Times: 2
+	Date: 2015-08-07 ; Times: 4
+	Date: 2015-08-10 ; Times: 3
+	Date: 2015-08-12 ; Times: 1
+	Date: 2015-08-13 ; Times: 2
+	Date: 2015-08-16 ; Times: 2
+	Date: 2015-08-17 ; Times: 13
+	Date: 2015-08-21 ; Times: 4
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Picoides nuttallii type:specimen stateprovince:"California"" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Callipepla californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Polioptila caerulea" ; Times: 1
+	Query: "Ectopistes migratorius type:specimen" ; Times: 1
+	Query: "coturnicops noveboracensis" ; Times: 1
+	Query: "county:"clackamas" stateprovince:"oregon" class:Aves year >= 1895 year <= 1898" ; Times: 3
+	Query: "country:"panama"" ; Times: 1
+	Query: "catharus bicknelli" ; Times: 2
+	Query: "amazona" ; Times: 1
+	Query: "Quiscalus mexicanus type:specimen" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"California" (bird specimen) AND (NOT egg) year >= 1880 year <= 1900" ; Times: 2
+	Query: "riverside county" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "Piaya cayana" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "county:"Riverside County"" ; Times: 1
+	Query: "Branta canadensis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Troglodytidae" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "class:aves (feather)" ; Times: 1
+	Query: "Contopus sordidulus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "rallus limicola" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Phalacrocorax auritus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Cracidae" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 56
+Total number of records retrieved from searches: 139
+Number of download events that retrieved data from the resource: 45
+Total number of records downloaded: 2089
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 56
+Total number of records retrieved from searches: 139
+Number of download events that retrieved data from the resource: 45
+Total number of records downloaded: 2089
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
