@@ -1,0 +1,108 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Poland ; Times: 1
+	Country: United States ; Times: 11
+	Country: Argentina ; Times: 1
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-02 ; Times: 3
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "melozone aberti" ; Times: 1
+	Query: "megalaima rubricapilla" ; Times: 1
+	Query: "birds brazil" ; Times: 2
+	Query: "specificepithet:graciae genus:Setophaga stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "10164" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco county:&#34;Wyandotte&#34;" ; Times: 1
+	Query: "EWENS" ; Times: 1
+	Query: "breninger" ; Times: 1
+	Query: "12739" ; Times: 1
+	Query: "Sitta pusilla" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Andigena laminirostris" ; Times: 1
+	Query: "rallus limicola eggs" ; Times: 1
+	Query: "empidonax extimus" ; Times: 1
+	Query: "sitta pusilla" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 823 download events in this period)
+Total number of records downloaded: 603
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 13
+	Country: Uganda ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-29 ; Times: 3
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-31 ; Times: 2
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "(Marinkelle)" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "specificepithet:graciae genus:Setophaga stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+
+
+End of report.
