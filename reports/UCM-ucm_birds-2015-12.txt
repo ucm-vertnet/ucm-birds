@@ -1,0 +1,129 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 313
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Canada ; Times: 32
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-21 ; Times: 2
+	Date: 2015-12-09 ; Times: 6
+	Date: 2015-12-08 ; Times: 11
+	Date: 2015-12-03 ; Times: 2
+	Date: 2015-12-02 ; Times: 7
+	Date: 2015-12-01 ; Times: 13
+	Date: 2015-12-07 ; Times: 8
+	Date: 2015-12-06 ; Times: 5
+	Date: 2015-12-04 ; Times: 3
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-31 ; Times: 1
+	Date: 2015-12-12 ; Times: 4
+	Date: 2015-12-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Crypsirina temia" ; Times: 3
+	Query: "thailand birds" ; Times: 1
+	Query: "Tryngites subruficollis" ; Times: 1
+	Query: "Chlidonias niger" ; Times: 1
+	Query: "mounted type:specimen year &lt;= 1930" ; Times: 2
+	Query: "Ixobrychus exilis" ; Times: 1
+	Query: "osburn larimer" ; Times: 1
+	Query: "genus:strix stateprovince:&#34;colorado&#34;" ; Times: 2
+	Query: "Asio flammeus" ; Times: 1
+	Query: "Icteria virens" ; Times: 1
+	Query: "strix colorado" ; Times: 1
+	Query: "Contopus virens" ; Times: 1
+	Query: "Larimer Anas" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "genus:callipepla stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "osburn" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "riparia riparia" ; Times: 1
+	Query: "Coturnicops noveboracensis colorado" ; Times: 1
+	Query: "Lanius ludovicianus (Virginia)" ; Times: 1
+	Query: "Sturnella magna" ; Times: 4
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "aves type:specimen country:&#34;thailand&#34;" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "leucosticte australis" ; Times: 2
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 2
+	Query: "thailand aves" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "glenwood springs colorado" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "loveland aves" ; Times: 1
+	Query: "saxicola colorado" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "Cardellina canadensis" ; Times: 4
+	Query: "Andigena nigrirostris" ; Times: 2
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Contopus cooperi" ; Times: 1
+	Query: "histrionicus colorado" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Melanerpes erythrocephalus" ; Times: 1
+	Query: "Phalaropus lobatus" ; Times: 2
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "genus:tympanuchus stateprovince:&#34;colorado&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 889 download events in this period)
+Total number of records downloaded: 663
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 5
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 4
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-05 ; Times: 2
+	Date: 2015-12-04 ; Times: 3
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-31 ; Times: 4
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "grallaria ruficapilla type:specimen" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "Selasphorus type:specimen mappable:1" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Ammodramus caudacutus" ; Times: 1
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "Archilochus type:specimen mappable:1" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Pueblo Colorado Aves" ; Times: 1
+	Query: "type:specimen family:Thraupidae country:&#34;United States&#34; sex:male" ; Times: 1
+
+
+End of report.
