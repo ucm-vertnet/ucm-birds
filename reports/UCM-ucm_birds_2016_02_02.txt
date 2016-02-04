@@ -1,0 +1,112 @@
+Report for Institution Code UCM, Resource Bird specimens
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 32
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Sweden ; Times: 5
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aglaiocercus kingii" ; Times: 1
+	Query: "ucm 8114" ; Times: 1
+	Query: "ucm 8111" ; Times: 2
+	Query: "stateprovince:"alaska" recordedby:adair" ; Times: 1
+	Query: "ucm 8104" ; Times: 1
+	Query: "ucm 12032" ; Times: 1
+	Query: "skin male type:specimen specificepithet:somptuosus genus:Anisognathus order:Passeriformes class:Aves" ; Times: 1
+	Query: "Peucaea aestivalis type:specimen" ; Times: 1
+	Query: "jefferson illinois" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "aix sponsa" ; Times: 1
+	Query: "specificepithet:flava genus:piranga stateprovince:"new mexico"" ; Times: 1
+	Query: "Lacedo" ; Times: 2
+	Query: "type:specimen (crypturellus)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 507 download events in this period)
+Total number of records downloaded: 48 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 47
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 5
+	Date: 2016-01-02 ; Times: 4
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""Diglossa cyanea"" ; Times: 1
+	Query: ""Coeligena torquata"" ; Times: 1
+	Query: ""Zonotrichia capensis"" ; Times: 1
+	Query: "Setophaga discolor type:specimen" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: ""Haplophaedia aureliae"" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: ""Myioborus miniatus"" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))<78505" ; Times: 1
+	Query: ""Pseudocolaptes boissonneautii"" ; Times: 1
+	Query: ""Santa Cruz Island" class:Aves stateprovince:"California"" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: ""Tangara xanthocephala"" ; Times: 1
+	Query: "skin genus: Paroaria sex:male" ; Times: 1
+	Query: "specificepithet:flava genus:piranga stateprovince:"new mexico"" ; Times: 1
+	Query: "Turnix" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 22
+Total number of records downloaded: 48
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 16
+Total number of records retrieved from searches: 32
+Number of download events that retrieved data from the resource: 22
+Total number of records downloaded: 48
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
