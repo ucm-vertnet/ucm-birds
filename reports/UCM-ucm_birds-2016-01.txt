@@ -1,0 +1,94 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 32
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Sweden ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aglaiocercus kingii" ; Times: 1
+	Query: "ucm 8114" ; Times: 1
+	Query: "ucm 8111" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:adair" ; Times: 1
+	Query: "ucm 8104" ; Times: 1
+	Query: "ucm 12032" ; Times: 1
+	Query: "skin male type:specimen specificepithet:somptuosus genus:Anisognathus order:Passeriformes class:Aves" ; Times: 1
+	Query: "Peucaea aestivalis type:specimen" ; Times: 1
+	Query: "jefferson illinois" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "aix sponsa" ; Times: 1
+	Query: "specificepithet:flava genus:piranga stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Lacedo" ; Times: 2
+	Query: "type:specimen (crypturellus)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 507 download events in this period)
+Total number of records downloaded: 48
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Netherlands ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-01 ; Times: 5
+	Date: 2016-01-02 ; Times: 4
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Diglossa cyanea&#34;" ; Times: 1
+	Query: "&#34;Coeligena torquata&#34;" ; Times: 1
+	Query: "&#34;Zonotrichia capensis&#34;" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; class:Aves stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "Setophaga discolor type:specimen" ; Times: 1
+	Query: "&#34;Haplophaedia aureliae&#34;" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "&#34;Myioborus miniatus&#34;" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "&#34;Pseudocolaptes boissonneautii&#34;" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "&#34;Tangara xanthocephala&#34;" ; Times: 1
+	Query: "skin genus: Paroaria sex:male" ; Times: 1
+	Query: "specificepithet:flava genus:piranga stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Turnix" ; Times: 1
+
+
+End of report.
