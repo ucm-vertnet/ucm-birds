@@ -1,0 +1,75 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 60
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-27 ; Times: 3
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 8
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "BRENINGER AND Santa Cruz Island" ; Times: 1
+	Query: "BRENINGER AND SANTA CRUZ ISLAND" ; Times: 3
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 2
+	Query: "Aix sponsa AND Island" ; Times: 1
+	Query: "specificepithet:leucura genus:lagopus" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "oxyura new mexico" ; Times: 1
+	Query: "Callipepla squamata" ; Times: 1
+	Query: "Ocreatus" ; Times: 1
+	Query: "setophaga nigrescens" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "BRENINGER AND ISLAND" ; Times: 1
+	Query: "Cerorhinca monocerata AND Santa Barbara Island" ; Times: 1
+	Query: "Passer domesticus" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 327 download events in this period)
+Total number of records downloaded: 50
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Canada ; Times: 2
+	Country: China ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
