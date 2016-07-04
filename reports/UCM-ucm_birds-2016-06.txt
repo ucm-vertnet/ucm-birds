@@ -1,0 +1,146 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 192
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 69
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-22 ; Times: 3
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-20 ; Times: 6
+	Date: 2016-06-16 ; Times: 9
+	Date: 2016-06-04 ; Times: 5
+	Date: 2016-06-07 ; Times: 3
+	Date: 2016-06-15 ; Times: 6
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 3
+	Date: 2016-06-10 ; Times: 14
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-03 ; Times: 7
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-09 ; Times: 3
+	Date: 2016-06-02 ; Times: 13
+	Date: 2016-06-14 ; Times: 5
+	Date: 2016-06-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Breninger AND Santa Cruz Island" ; Times: 2
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "empidonax traillii extimus" ; Times: 1
+	Query: "Amandava amandava 1" ; Times: 3
+	Query: "strix occidentalis lucida" ; Times: 1
+	Query: "Athene cunicularia hypugaea stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(32.697362236182066,-105.018310546875))&lt;126133" ; Times: 1
+	Query: "UCM AND Santa Cruz Island NOT Ecuador" ; Times: 1
+	Query: "type:specimen specificepithet:leucura genus:Lagopus country:&#34;United States&#34;" ; Times: 2
+	Query: "lagopus stateprovince:&#34;Wyoming&#34;" ; Times: 5
+	Query: "Breninger AND Island NOT Rhode" ; Times: 1
+	Query: "UCM AND Santa Cruz Island" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "11139" ; Times: 4
+	Query: "Strix occidentalis lucida" ; Times: 1
+	Query: "Toxostoma rufum" ; Times: 1
+	Query: "setophaga magnolia month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Scrub Jay&#34; OR &#34;Aphelocoma californica&#34;) mappable:1" ; Times: 1
+	Query: "county:&#34;logan&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 3
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1905 year &lt;= 1905" ; Times: 1
+	Query: "San Miguel Island AND Birds AND 1938" ; Times: 1
+	Query: "Breninger AND Santa Cruz Island NOT Ecuador" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1895" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "type:specimen specificepithet:leucura genus:Lagopus" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 2
+	Query: "14299" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Athene cunicularia stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(32.697362236182066,-105.018310546875))&lt;126133" ; Times: 1
+	Query: "13164" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "Aphelocoma coerulescens" ; Times: 2
+	Query: "Breninger AND Island NOT CLemente" ; Times: 1
+	Query: "Toxostoma curvirostre" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1907" ; Times: 1
+	Query: "1904 AND Catalina ISland NOT Velero" ; Times: 1
+	Query: "Breninger AND 1896" ; Times: 1
+	Query: "11899" ; Times: 3
+	Query: "8555" ; Times: 1
+	Query: "Breninger AND Island" ; Times: 3
+	Query: "type:specimen specificepithet:somptuosus genus:Anisognathus sex:male" ; Times: 1
+	Query: "Lagopus leucura type:specimen specificepithet:leucura genus:Lagopus" ; Times: 3
+	Query: "Breninger" ; Times: 1
+	Query: "type:specimen specificepithet:montana genus:Buthraupis sex:male" ; Times: 1
+	Query: "Breninger AND &#34;Cruz Island&#34;" ; Times: 1
+	Query: "Breninger AND Aphelocoma" ; Times: 1
+	Query: "type:specimen specificepithet:leucura genus:Lagopus continent:North America" ; Times: 1
+	Query: "Breninger AND &#34;1895-02-28&#34;" ; Times: 1
+	Query: "1904 AND Catalina ISland NOT Fishes" ; Times: 2
+	Query: "Strix occidentalis" ; Times: 2
+	Query: "Breninger AND Island NOT Rhode NOT Capitola" ; Times: 1
+	Query: "Toxostoma redivivum" ; Times: 1
+	Query: "Peucaea cassinii" ; Times: 1
+	Query: "Cerorhinca monocerata AND &#34;Santa Cruz Island&#34;" ; Times: 2
+	Query: "Breninger AND 1895-02-28" ; Times: 1
+	Query: "Breninger AND Santa Cruz Island NOT Capitola" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "Breninger AND UCM 12102" ; Times: 1
+	Query: "San Miguel Island AND Birds AND 1904" ; Times: 1
+	Query: "San Miguel Island AND Birds AND 1905" ; Times: 1
+	Query: "Breninger AND &#34;Cruz Island&#34; AND 1895" ; Times: 1
+	Query: "ammodramus bairdii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1052 download events in this period)
+Total number of records downloaded: 106
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-08 ; Times: 1
+	Date: 2016-06-20 ; Times: 3
+	Date: 2016-06-16 ; Times: 2
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Scrub Jay&#34; OR &#34;Aphelocoma californica&#34;) mappable:1" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "erethizon" ; Times: 1
+
+
+End of report.
