@@ -1,0 +1,97 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 58
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-14 ; Times: 10
+	Date: 2016-08-15 ; Times: 2
+	Date: 2016-08-16 ; Times: 3
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-22 ; Times: 7
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "melanerpes carolinus Virginia" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "Catharus fuscescens salicicola month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1920" ; Times: 1
+	Query: "Melanerpes aurifrons stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "crypsirina" ; Times: 5
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1940" ; Times: 1
+	Query: "class:aves county:&#34;greenwood&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "chaetocercus heliodor" ; Times: 9
+	Query: "Peucaea aestivalis" ; Times: 3
+	Query: "sterna dougallii" ; Times: 1
+	Query: "type:specimen genus:STEPHANOXIS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "caspia" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "occidentalis lucida" ; Times: 1
+	Query: "haslifestage:1 hassex:1 hasmass:1 haslength:1 hasmedia:1 hastissue:1" ; Times: 2
+	Query: "melanerpes erythrocephalus virginia" ; Times: 1
+	Query: "CRYPSIRINA" ; Times: 1
+	Query: "phylloscopus borealis thailand" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 924 download events in this period)
+Total number of records downloaded: 553
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-22 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Colombia Aves Boyaca" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+
+
+End of report.
