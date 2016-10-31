@@ -1,0 +1,184 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 156
+Number of records retrieved in searches: 525
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Belgium ; Times: 1
+	Country: Portugal ; Times: 110
+	Country: Colombia ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-12 ; Times: 5
+	Date: 2016-09-10 ; Times: 27
+	Date: 2016-09-08 ; Times: 62
+	Date: 2016-09-09 ; Times: 47
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-07 ; Times: 8
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "PTC" ; Times: 1
+	Query: "Paroaria dominicana 1" ; Times: 1
+	Query: "Lonchura malacca 1" ; Times: 3
+	Query: "Junco hyemalis 1" ; Times: 2
+	Query: "Anthracothorax nigricollis 1" ; Times: 1
+	Query: "Chaetocercus heliodor 1" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 1
+	Query: "Bubo virginianus 1" ; Times: 1
+	Query: "Branta bernicla 1" ; Times: 1
+	Query: "Aix galericulata 1" ; Times: 2
+	Query: "Bombycilla garrulus 1" ; Times: 2
+	Query: "Cyrtonyx montezumae 1" ; Times: 1
+	Query: "Haplophaedia aureliae 1" ; Times: 1
+	Query: "Archilochus colubris 1" ; Times: 3
+	Query: "Dolichonyx oryzivorus 1" ; Times: 1
+	Query: "Amazona farinosa 1" ; Times: 2
+	Query: "Anas americana 1" ; Times: 3
+	Query: "Ortalis vetula 1" ; Times: 1
+	Query: "Anas cyanoptera 1" ; Times: 2
+	Query: "Coracias caudatus 1" ; Times: 1
+	Query: "Zonotrichia albicollis 1" ; Times: 2
+	Query: "9759 class:Aves" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "Chlorostilbon stenura stenura 1" ; Times: 1
+	Query: "Synallaxis azarae 1" ; Times: 1
+	Query: "Brotogeris jugularis 1" ; Times: 1
+	Query: "Synallaxis castanea 1" ; Times: 1
+	Query: "Brotogeris versicolurus 1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "Heliangelus clarisse 1" ; Times: 1
+	Query: "Bubo bubo 1" ; Times: 1
+	Query: "Colius striatus 1" ; Times: 1
+	Query: "Gracula religiosa 1" ; Times: 1
+	Query: "Ammodramus nelsoni" ; Times: 2
+	Query: "San Miguel Island AND 1905" ; Times: 1
+	Query: "Platalea ajaja 1" ; Times: 1
+	Query: "Alectoris chukar 1" ; Times: 2
+	Query: "Himantopus mexicanus 1" ; Times: 1
+	Query: "Sturnus sinensis 1" ; Times: 1
+	Query: "Lonchura striata 1" ; Times: 1
+	Query: "Aramides cajanea 1" ; Times: 1
+	Query: "Haliaeetus leucocephalus 1" ; Times: 1
+	Query: "Aquila chrysaetos 1" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Ocreatus underwoodii 1" ; Times: 1
+	Query: "Thalurania colombica 1" ; Times: 1
+	Query: "Amazilia cyanifrons 1" ; Times: 1
+	Query: "Aix sponsa 1" ; Times: 2
+	Query: "Peucaea aestivalis" ; Times: 1
+	Query: "type:specimen family:Tinamidae AND (male)" ; Times: 1
+	Query: "Serinus canaria 1" ; Times: 1
+	Query: "Amandava amandava 1" ; Times: 2
+	Query: "Anas crecca 1" ; Times: 1
+	Query: "Selasphorus rufus 1" ; Times: 2
+	Query: "Falco sparverius 1" ; Times: 2
+	Query: "Stephanoxis lalandi 1" ; Times: 1
+	Query: "type:specimen (subvirgatus)" ; Times: 1
+	Query: "Selasphorus platycercus 1" ; Times: 2
+	Query: "Aglaiocercus kingii 1" ; Times: 1
+	Query: "Falco femoralis 1" ; Times: 2
+	Query: "Colibri delphinae 1" ; Times: 1
+	Query: "Copsychus malabaricus 1" ; Times: 1
+	Query: "Emberiza cioides 1" ; Times: 1
+	Query: "Pterophanes cyanopterus 1" ; Times: 1
+	Query: "Coturnix japonica 1" ; Times: 2
+	Query: "Carduelis sinica 1" ; Times: 1
+	Query: "Lophodytes cucullatus 1" ; Times: 2
+	Query: "podiceps colorado" ; Times: 1
+	Query: "corvus corax iceland" ; Times: 1
+	Query: "Chrysolophus pictus 1" ; Times: 2
+	Query: "Adelomyia melanogenys 1" ; Times: 1
+	Query: "Coeligena torquata 1" ; Times: 1
+	Query: "Melopsittacus undulatus 1" ; Times: 2
+	Query: "Thalurania furcata 1" ; Times: 1
+	Query: "Anas rubripes 1" ; Times: 1
+	Query: "Boissonneaua flavescens 1" ; Times: 1
+	Query: "Columba livia 1" ; Times: 1
+	Query: "Buteo jamaicensis 1" ; Times: 4
+	Query: "Branta ruficollis 1" ; Times: 2
+	Query: "Garrulax leucolophus 1" ; Times: 1
+	Query: "Bubo scandiacus 1" ; Times: 1
+	Query: "Anas discors 1" ; Times: 2
+	Query: "Ara ararauna 1" ; Times: 1
+	Query: "Cygnus columbianus 1" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 8
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Cathartes aura 1" ; Times: 1
+	Query: "Chlorostilbon gibsoni 1" ; Times: 1
+	Query: "Chrysolampis mosquitus 1" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 3
+	Query: "Geopelia striata 1" ; Times: 2
+	Query: "Sturnella magna 1" ; Times: 1
+	Query: "Bonasa umbellus 1" ; Times: 2
+	Query: "PTC 09-1" ; Times: 1
+	Query: "Colibri thalassinus 1" ; Times: 1
+	Query: "Bucephala clangula 1" ; Times: 1
+	Query: "Eophona personata 1" ; Times: 2
+	Query: "Acridotheres tristis 1" ; Times: 2
+	Query: "Aythya valisineria 1" ; Times: 1
+	Query: "Coeligena coeligena 1" ; Times: 1
+	Query: "Accipiter cooperii 1" ; Times: 2
+	Query: "Lagopus lagopus 1" ; Times: 1
+	Query: "Eudocimus albus 1" ; Times: 1
+	Query: "Grus canadensis 1" ; Times: 2
+	Query: "9795 class:Aves" ; Times: 1
+	Query: "Callipepla gambelii 1" ; Times: 1
+	Query: "Cardinalis cardinalis 1" ; Times: 3
+	Query: "Psittacula alexandri 1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 811 download events in this period)
+Total number of records downloaded: 398
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 10
+	Country: Colombia ; Times: 3
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 3
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-08 ; Times: 3
+	Date: 2016-09-14 ; Times: 2
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-06 ; Times: 2
+	Date: 2016-09-07 ; Times: 2
+	Date: 2016-09-01 ; Times: 3
+	Date: 2016-09-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "corvus corax iceland" ; Times: 1
+	Query: "geococcyx californianus" ; Times: 1
+	Query: "pygochelidon cyanoleuca" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "aves and cameroon type:specimen" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "falco peregrinus continent:america" ; Times: 1
+	Query: "myioborus miniatus type:specimen" ; Times: 2
+	Query: "Peucaea aestivalis" ; Times: 1
+	Query: "Merops leschenaulti" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "cistothorus platensis type:specimen" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "Andigena laminirostris" ; Times: 1
+	Query: "corvus corax europe" ; Times: 1
+
+
+End of report.
