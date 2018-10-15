@@ -1,0 +1,301 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 221
+Number of records retrieved in searches: 971
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 43
+	Country: Mexico ; Times: 172
+	Country: India ; Times: 1
+	Country: Singapore ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 4
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-11 ; Times: 4
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-26 ; Times: 5
+	Date: 2018-01-27 ; Times: 6
+	Date: 2018-01-15 ; Times: 28
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-22 ; Times: 4
+	Date: 2018-01-16 ; Times: 141
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-30 ; Times: 4
+	Date: 2018-01-03 ; Times: 4
+	Date: 2018-01-12 ; Times: 3
+	Date: 2018-01-23 ; Times: 2
+	Date: 2018-01-10 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas acuta" ; Times: 1
+	Query: "Setophaga fusca" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Parkesia noveboracensis" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 1
+	Query: "Myioborus pictus" ; Times: 1
+	Query: "Lepidocolaptes affinis" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "Megaceryle alcyon" ; Times: 1
+	Query: "Celeus castaneus" ; Times: 1
+	Query: "Setophaga petechia" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "Contopus pertinax" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Vireo solitarius" ; Times: 1
+	Query: "Tachycineta thalassina" ; Times: 1
+	Query: "Kjell von Sneidern" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Pelecanus occidentalis" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Setophaga graciae" ; Times: 1
+	Query: "Petrochelidon pyrrhonota" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 1
+	Query: "Todirostrum cinereum" ; Times: 1
+	Query: "Setophaga cerulea" ; Times: 1
+	Query: "Actitis macularius" ; Times: 1
+	Query: "Calidris minutilla" ; Times: 1
+	Query: "Eudocimus  albus" ; Times: 1
+	Query: "Cardellina canadensis" ; Times: 1
+	Query: "Picoides borealis" ; Times: 2
+	Query: "Calidris alba" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Icterus mesomelas" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "Seiurus aurocapilla" ; Times: 1
+	Query: "distance(location,geopoint(40.7695032552145,-72.9913943725))&lt;10432" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Ixobrychus exilis" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Fulica americana" ; Times: 1
+	Query: "Setophaga discolor" ; Times: 1
+	Query: "dicrurus macrocercus" ; Times: 2
+	Query: "Crotophaga sulcirostris" ; Times: 1
+	Query: "Ragsdale" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "Ramphocelus passerinii" ; Times: 1
+	Query: "vntype:specimen class:aves recordedby:Harvey year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "Tyrannus melancholicus" ; Times: 1
+	Query: "Oreothlypis virginiae" ; Times: 1
+	Query: "Gallinago delicata" ; Times: 1
+	Query: "Trogon citreolus" ; Times: 1
+	Query: "Botaurus lentiginosus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "Contopus virens" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "distance(location,geopoint(31.3451472825001,-109.25778638))&lt;2897" ; Times: 3
+	Query: "Peucedramus taeniatus" ; Times: 1
+	Query: "Passerina ciris" ; Times: 1
+	Query: "Myiarchus tyrannulus" ; Times: 1
+	Query: "Spiza americana" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Empidonax flaviventris" ; Times: 1
+	Query: "Myiarchus crinitus" ; Times: 1
+	Query: "distance(location,geopoint(41.4396964680001,-71.663528582))&lt;23842" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "Empidonax virescens" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Geothlypis formosa" ; Times: 1
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "Parkesia motacilla" ; Times: 1
+	Query: "Icterus spurius" ; Times: 1
+	Query: "Zenaida macroura" ; Times: 1
+	Query: "Vireo philadelphicus" ; Times: 1
+	Query: "Tringa melanoleuca" ; Times: 1
+	Query: "Pachyramphus cinnamomeus" ; Times: 1
+	Query: "Tringa solitaria" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Setophaga occidentalis" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;kansas&#34; year &gt;= 1800 year &lt;= 1809" ; Times: 2
+	Query: "distance(location,geopoint(28.2839214052075,-96.5946890600677))&lt;6768" ; Times: 3
+	Query: "Vermivora cyanoptera" ; Times: 1
+	Query: "Empidonax minimus" ; Times: 1
+	Query: "specificepithet:strepera genus:anas class:Aves year &gt;= 1880 year &lt;= 1890" ; Times: 1
+	Query: "Thalasseus maximus" ; Times: 1
+	Query: "Larus delawarensis" ; Times: 1
+	Query: "gallus gallus vntype:specimen class:aves AND (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "Pteroglossus torquatus" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Stelgidopteryx serripennis" ; Times: 1
+	Query: "Calidris himantopus" ; Times: 1
+	Query: "ammodramus bairdii" ; Times: 3
+	Query: "Setophaga pensylvanica" ; Times: 1
+	Query: "Phalaropus tricolor" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 1
+	Query: "Setophaga striata" ; Times: 1
+	Query: "Contopus sordidulus" ; Times: 1
+	Query: "Setophaga virens" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 2
+	Query: "Leucophaeus pipixcan" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Oreothlypis celata" ; Times: 1
+	Query: "Microrhopias quixensis" ; Times: 1
+	Query: "Calidris pusilla" ; Times: 1
+	Query: "distance(location,geopoint(26.110795247,-98.2710711635))&lt;13014" ; Times: 3
+	Query: "Molothrus aeneus" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "Malacoptila panamensis" ; Times: 1
+	Query: "Setophaga townsendi" ; Times: 1
+	Query: "Vireo bellii" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Trogon massena" ; Times: 1
+	Query: "Camptostoma imberbe" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "Catharus minimus" ; Times: 1
+	Query: "Contopus cooperi" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Aix galericulata sex:male hassex:1" ; Times: 1
+	Query: "Icterus cucullatus" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Glaucidium gnoma" ; Times: 1
+	Query: "Vireo huttoni" ; Times: 1
+	Query: "Hydroprogne caspia" ; Times: 1
+	Query: "birds of prey" ; Times: 1
+	Query: "Mniotilta varia" ; Times: 1
+	Query: "Geothlypis tolmiei" ; Times: 1
+	Query: "Accipiter cooperii" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "distance(location,geopoint(28.215489149535,-96.6352540682287))&lt;6553" ; Times: 3
+	Query: "Myiarchus cinerascens" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Polioptila caerulea" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "Himantopus mexicanus" ; Times: 1
+	Query: "Charadrius vociferus" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "Vireo flavifrons" ; Times: 1
+	Query: "Icteria virens" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Tringa flavipes" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "Piranga olivacea" ; Times: 1
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "Tyrannus forficatus" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Aix galericulata sex:Male hassex:1" ; Times: 1
+	Query: "Xiphocolaptes promeropirhynchus" ; Times: 1
+	Query: "Pheucticus ludovicianus" ; Times: 1
+	Query: "Tyrannus verticalis" ; Times: 1
+	Query: "Setophaga americana" ; Times: 1
+	Query: "Vireo plumbeus" ; Times: 1
+	Query: "Myiodynastes luteiventris" ; Times: 1
+	Query: "gallus gallus vntype:specimen AND (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "Vireo griseus" ; Times: 1
+	Query: "Piranga flava" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Spinus psaltria" ; Times: 1
+	Query: "Setophaga dominica" ; Times: 1
+	Query: "Passerina caerulea" ; Times: 1
+	Query: "distance(location,geopoint(41.601686958,-69.995009412))&lt;7575" ; Times: 2
+	Query: "Momotus lessonii" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "gallus gallus vntype:specimen class:aves NOT (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "distance(location,geopoint(33.4988060165,-104.408602877))&lt;15213" ; Times: 3
+	Query: "Melanerpes aurifrons" ; Times: 1
+	Query: "Hylocichla mustelina" ; Times: 1
+	Query: "distance(location,geopoint(43.0067691708,-76.73981359325))&lt;3234" ; Times: 2
+	Query: "el Paso Zoo" ; Times: 3
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Oreothlypis ruficapilla" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1398 download events in this period)
+Total number of records downloaded: 359
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 19
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-09 ; Times: 4
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-23 ; Times: 1
+	Date: 2018-01-25 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "caracara cheriway" ; Times: 1
+	Query: "class:aves recordedby:*weber*" ; Times: 1
+	Query: "coereba flaveola" ; Times: 1
+	Query: "colombia" ; Times: 1
+	Query: "Turdus migratorius hassex:1 hasmass:1" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "hasmedia:1" ; Times: 1
+	Query: "&#34;Falco sparverius&#34; vntype:specimen" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza year &gt;= 1901 year &lt;= 1904 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Calidris canutus rufa" ; Times: 1
+	Query: "Acrocephalus" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops mappable:1" ; Times: 1
+	Query: "gallus gallus vntype:specimen class:aves NOT (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Accipiter" ; Times: 1
+	Query: "Empidonax hammondii" ; Times: 1
+	Query: "Dryocopus pileatus hassex:1" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Turdus migratorius vntype:specimen hassex:1 hasmass:1" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+
+
+End of report.
