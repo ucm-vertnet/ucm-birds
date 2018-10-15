@@ -1,0 +1,235 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 176
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Portugal ; Times: 35
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 7
+	Country: United States ; Times: 35
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-02 ; Times: 3
+	Date: 2018-02-01 ; Times: 8
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 4
+	Date: 2018-02-05 ; Times: 4
+	Date: 2018-02-21 ; Times: 3
+	Date: 2018-02-20 ; Times: 23
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-25 ; Times: 3
+	Date: 2018-02-27 ; Times: 17
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-12 ; Times: 6
+	Date: 2018-02-13 ; Times: 4
+	Date: 2018-02-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aix sponsa mappable:1" ; Times: 1
+	Query: "birds of prey" ; Times: 1
+	Query: "catalognumber:1939 institutioncode:UCM" ; Times: 1
+	Query: "10066" ; Times: 1
+	Query: "distance(location,geopoint(39.8529967495001,-91.180029912))&lt;61801" ; Times: 2
+	Query: "specificepithet:dorsalis genus:picoides hasmass:1" ; Times: 1
+	Query: "Buteo regalis mappable:1" ; Times: 4
+	Query: "pharomachrus mocinno Guatemala" ; Times: 1
+	Query: "vntype:specimen specificepithet:melodia genus:Melospiza haslength:1" ; Times: 2
+	Query: "class:aves county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:UCM" ; Times: 1
+	Query: "Ramphastos sulfuratus mappable:1" ; Times: 4
+	Query: "specificepithet:leucura genus:Lagopus continent:North America" ; Times: 2
+	Query: "Coragyps atratus mappable:1" ; Times: 4
+	Query: "class:Aves recordedby:William F. Palsson" ; Times: 2
+	Query: "pinus engelmannii" ; Times: 3
+	Query: "genus:Colaptes stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Aves locality:Alabama" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 2
+	Query: "bicknelli" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Ara macao" ; Times: 5
+	Query: "locality:Philadelphia year &gt;= 1750 year &lt;= 1800" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris lifestage:Adult sex:Male basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ara macao mappable:1" ; Times: 3
+	Query: "genus:melospiza haslength:1" ; Times: 1
+	Query: "distance(location,geopoint(26.110795247,-98.2710711635))&lt;13014" ; Times: 2
+	Query: "Dendragapus obscurus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Garrulax leucolophus mappable:1" ; Times: 3
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 4
+	Query: "Ara macao Guatemala" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34; recordedby:e. west" ; Times: 1
+	Query: "UTM Zone Map" ; Times: 1
+	Query: "Momotus momota" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "locality:hyde stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "Branta ruficollis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "strix lucida" ; Times: 1
+	Query: "Lonchura malacca mappable:1" ; Times: 4
+	Query: "B-1357" ; Times: 1
+	Query: "dicrurus hottentottus brevirostris thailand" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sturnus massing &gt;= 10 massing &lt;= 60" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "85180" ; Times: 1
+	Query: "Amazona farinosa mappable:1" ; Times: 3
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "Diomedea nigripes" ; Times: 1
+	Query: "Branta canadensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Anas clypeata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Coliidae+Cameroon" ; Times: 1
+	Query: "(genus:strix OR genus:ciccaba) (infraspecificepithet:lucida OR infraspecificepithet:huachucae OR infraspecificepithet:juanaphillipsae)" ; Times: 1
+	Query: "Elanoides forficatus mappable:1" ; Times: 4
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Phasianus colchicus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 104 (out of 1892 download events in this period)
+Total number of records downloaded: 2256
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 85
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 3
+	Date: 2018-02-02 ; Times: 14
+	Date: 2018-02-01 ; Times: 8
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 7
+	Date: 2018-02-05 ; Times: 24
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-20 ; Times: 10
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-26 ; Times: 3
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 4
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 3
+	Date: 2018-02-13 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mexicanus genus:Carpodacus continent:North America" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "Hemipus picatus" ; Times: 1
+	Query: "genus:megascops hastissue:1" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coliidae+Cameroon" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "class:aves recordedby:weber" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "class:Aves country:&#34;Sri Lanka&#34;" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "family:pelecanidae hastissue:1" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "specificepithet:leucura genus:Lagopus continent:North America" ; Times: 2
+	Query: "specificepithet:coerulescens genus:Aphelocoma continent:North America" ; Times: 2
+	Query: "specificepithet:thalassina genus:tachycineta hasmass:1" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "molothrus" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina continent:North America" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:alpestris genus:Eremophila" ; Times: 1
+	Query: "specificepithet:melodia class:aves" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sturnus massing &gt;= 10 massing &lt;= 60" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla continent:North America" ; Times: 2
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:dorsalis genus:picoides hasmass:1" ; Times: 1
+	Query: "Prionops" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "passer" ; Times: 1
+	Query: "specificepithet:spodocephala genus:Emberiza" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "Prionops plumatus" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "Momotus momota" ; Times: 3
+	Query: "Chroicocephalus ridibundus" ; Times: 1
+	Query: "class:Aves country:&#34;Senegal&#34;" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 6
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "genus:junco hasmass:1" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "specificepithet:melodia rufina genus:melospiza" ; Times: 1
+	Query: "specificepithet:belli genus:Amphispiza" ; Times: 2
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "specificepithet:melodia morphna genus:melospiza" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "specificepithet:pica genus:Pica continent:North America" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta hasmass:1" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer continent:North America" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "(genus:strix OR genus:ciccaba) (infraspecificepithet:lucida OR infraspecificepithet:huachucae OR infraspecificepithet:juanaphillipsae)" ; Times: 1
+
+
+End of report.
