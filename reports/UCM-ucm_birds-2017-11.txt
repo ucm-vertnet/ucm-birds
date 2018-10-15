@@ -1,0 +1,132 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 88
+Number of records retrieved in searches: 272
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 86
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 2
+	Date: 2017-11-24 ; Times: 3
+	Date: 2017-11-25 ; Times: 80
+	Date: 2017-11-28 ; Times: 1
+	Date: 2017-11-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leucophrys class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "genus:Progne class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1889" ; Times: 1
+	Query: "specificepithet:coronata class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:nigricans genus:Sayornis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1908" ; Times: 1
+	Query: "specificepithet:inornatus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "genus:Troglodytes class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:minimus genus:Psaltriparus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:formicivorus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "specificepithet:cassinii genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "specificepithet:guttatus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "genus:Gymnorhinus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:atrogularis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "genus:Cyanocitta class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "specificepithet:gambeli class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "specificepithet:parisorum genus:Icterus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1880" ; Times: 1
+	Query: "genus:Phainopepla class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "specificepithet:passerina class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:nigrescens class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:celata class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "genus:Archilochus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "specificepithet:caerulea genus:Polioptila class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "genus:Cyanocitta class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 2
+	Query: "specificepithet:kennicottii class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "genus:Contopus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "specificepithet:lawrencei class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:pictus class:Aves county:&#34;San Diego&#34; year &gt;= 1769" ; Times: 1
+	Query: "class:AVES county:&#34;Monroe&#34; stateprovince:&#34;Florida&#34; year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:melodia class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:difficilis genus:Empidonax class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "genus:Chamaea class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "genus:Nucifraga class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "albatrus" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Icterus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1880" ; Times: 1
+	Query: "specificepithet:gambeli class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:maculatus genus:Pipilo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "genus:Phainopepla class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1872" ; Times: 1
+	Query: "specificepithet:passerina class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1916" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "genus:Archilochus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "specificepithet:trichas class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1894" ; Times: 1
+	Query: "specificepithet:nigricans genus:Sayornis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1884" ; Times: 1
+	Query: "specificepithet:huttoni genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "genus:Thryomanes class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "12642" ; Times: 1
+	Query: "specificepithet:townsendi class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:petechia class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1889" ; Times: 1
+	Query: "genus:Melozone class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "genus:Cyanocitta class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "specificepithet:ludoviciana genus:Piranga class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "genus:Pipilo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "genus:Campylorhynchus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "specificepithet:borealis genus:numenius" ; Times: 1
+	Query: "specificepithet:caerulea class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:canadensis genus:branta hastissue:1" ; Times: 1
+	Query: "specificepithet:costae genus:Calypte class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "genus:Myiarchus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "specificepithet:occidentalis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:caerulea genus:Polioptila class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1908" ; Times: 1
+	Query: "genus:Sturnella class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1880" ; Times: 1
+	Query: "specificepithet:chlorurus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1918" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1918" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Setophaga class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:belli genus:Amphispiza class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1884" ; Times: 1
+	Query: "specificepithet:nuttallii class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:belli genus:Amphispiza class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1889" ; Times: 1
+	Query: "specificepithet:redivivum genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "specificepithet:mexicana genus:Sialia class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "specificepithet:mexicanus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1880" ; Times: 1
+	Query: "genus:Junco class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "genus:Aphelocoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sitta class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "genus:Megascops class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:cooperi class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1889" ; Times: 1
+	Query: "specificepithet:belli genus:Amphispiza class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:cassinii class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:psaltria class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+	Query: "specificepithet:mexicana genus:Sialia class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1876" ; Times: 1
+	Query: "genus:Phalaenoptilus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1891" ; Times: 1
+	Query: "specificepithet:atricapilla class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1876" ; Times: 1
+	Query: "specificepithet:pusilla class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1877" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1101 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Israel ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 1
+	Date: 2017-11-28 ; Times: 2
+	Date: 2017-11-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "zosterops japonicus" ; Times: 4
+	Query: "greenland aves" ; Times: 1
+
+
+End of report.
