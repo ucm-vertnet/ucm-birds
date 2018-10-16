@@ -1,0 +1,193 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 152
+Number of records retrieved in searches: 451
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 22
+	Country: United States ; Times: 115
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 10
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-17 ; Times: 1
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-12 ; Times: 3
+	Date: 2018-03-27 ; Times: 18
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-02 ; Times: 5
+	Date: 2018-03-03 ; Times: 4
+	Date: 2018-03-04 ; Times: 2
+	Date: 2018-03-05 ; Times: 5
+	Date: 2018-03-28 ; Times: 15
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 32
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-22 ; Times: 4
+	Date: 2018-03-23 ; Times: 25
+	Date: 2018-03-20 ; Times: 4
+	Date: 2018-03-21 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chroicocephalus specificepithet:philadelphia" ; Times: 5
+	Query: "genus:Ara specificepithet:macao" ; Times: 5
+	Query: "UCM 875" ; Times: 3
+	Query: "genus:Falcipennis specificepithet:canadensis" ; Times: 5
+	Query: "genus:Centropus specificepithet:toulou" ; Times: 6
+	Query: "genus:Colinus specificepithet:virginianus " ; Times: 1
+	Query: "genus:Circus specificepithet:cyaneus" ; Times: 4
+	Query: "&#34;South Park&#34; Colorado" ; Times: 1
+	Query: "genus:Seiurus specificepithet:aurocapilla" ; Times: 2
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "Passerculus sandwichensis princeps" ; Times: 1
+	Query: "genus:Columba specificepithet:livia" ; Times: 2
+	Query: "class:Aves preparations:skin catalognumber:12541" ; Times: 1
+	Query: "specificepithet:cassinii genus:Peucaea class:Aves" ; Times: 1
+	Query: "2788 geothlypis" ; Times: 1
+	Query: "cuculus optatus" ; Times: 1
+	Query: "genus:Arenaria specificepithet:melanocephala" ; Times: 2
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 2
+	Query: "S. Meyer" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "genus:Momotus specificepithet:momota" ; Times: 4
+	Query: "Lonchura malacca " ; Times: 2
+	Query: "genus:Dicrurus specificepithet:paradiseus" ; Times: 2
+	Query: "genus:Polioptila specificepithet:caerulea" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 4
+	Query: "Melozone crissalis" ; Times: 1
+	Query: "genus:Steatornis specificepithet:caripensis" ; Times: 5
+	Query: "Aves institutioncode:UCM hassex:1 hasmass:1" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "genus:Aquila specificepithet:chrysaetos" ; Times: 5
+	Query: "buteo swainsoni " ; Times: 17
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 2
+	Query: "8221" ; Times: 1
+	Query: "genus:Chrysocolaptes specificepithet:lucidus" ; Times: 2
+	Query: "genus:Merops specificepithet:leschenaulti" ; Times: 6
+	Query: "genus:Colinus" ; Times: 1
+	Query: "specificepithet:townsendi genus:Myadestes year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "catalognumber:13515" ; Times: 1
+	Query: "genus:Phasianus specificepithet:colchicus" ; Times: 5
+	Query: "genus:Geococcyx specificepithet:californianus" ; Times: 6
+	Query: "genus:Dendragapus specificepithet:obscurus" ; Times: 2
+	Query: "Passerculus princeps" ; Times: 1
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 2
+	Query: "B 1482" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "vntype:specimen family: Caprimulgidae (WS)" ; Times: 1
+	Query: "genus:Merops specificepithet:viridis" ; Times: 2
+	Query: "genus:Opisthocomus specificepithet:hoazin" ; Times: 2
+	Query: "genus:Catharus specificepithet:minimus " ; Times: 2
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 1
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 2
+	Query: "ebird" ; Times: 1
+	Query: "locality:Near Morgan" ; Times: 1
+	Query: "class:Aves (10328)" ; Times: 1
+	Query: "genus:Anas specificepithet:crecca" ; Times: 2
+	Query: "Streptopelia decaocto " ; Times: 2
+	Query: "genus:Sphyrapicus specificepithet:varius" ; Times: 2
+	Query: "genus:Anas specificepithet:acuta" ; Times: 2
+	Query: "scientificname:&#34;Cyanocitta cristata&#34; hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:dorsalis genus:picoides hasmass:1" ; Times: 1
+	Query: "genus:Athene specificepithet:cunicularia" ; Times: 4
+	Query: "genus:Chen specificepithet:caerulescens" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1284 download events in this period)
+Total number of records downloaded: 1226
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United Kingdom ; Times: 6
+	Country: Israel ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 22
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-12 ; Times: 5
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-14 ; Times: 3
+	Date: 2018-03-17 ; Times: 3
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-03 ; Times: 3
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-27 ; Times: 4
+	Date: 2018-03-18 ; Times: 7
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 2
+	Query: "class:Aves sex:male hassex:1 hasmass:1" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "family:laridae mappable:1" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "specificepithet:thalassina genus:tachycineta hasmass:1" ; Times: 1
+	Query: "cephalopterus ornatus" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "Passerculus sandwichensis princeps" ; Times: 1
+	Query: "Saltator atripennis" ; Times: 1
+	Query: "family:Laridae mappable:1" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 1
+	Query: "vntype:specimen class:Aves preparations:Wing" ; Times: 1
+	Query: "Aves 2010" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "specificepithet:bicolor genus:tachycineta hasmass:1" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "conuropsis" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "family:alcidae AND (NOT eggs) mappable:1" ; Times: 1
+	Query: "aphelocoma woodhouseii" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Passerculus princeps" ; Times: 1
+	Query: "family:Corvidae hastissue:1" ; Times: 1
+	Query: "family:alcidae mappable:1" ; Times: 2
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "Aves institutioncode:UCM hassex:1 hasmass:1" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "class:Aves lifestage:Adult sex:Male hassex:1 hasmass:1" ; Times: 1
+	Query: "Ficedula narcissina" ; Times: 1
+	Query: "pipra aureola" ; Times: 1
+	Query: "Egretta rufescens" ; Times: 1
+	Query: "preparations:nest" ; Times: 1
+	Query: "specificepithet:dorsalis genus:picoides hasmass:1" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+	Query: "scientificname:&#34;Cyanocitta cristata&#34; hassex:1 hasmass:1" ; Times: 1
+
+
+End of report.
