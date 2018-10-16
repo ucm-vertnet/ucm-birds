@@ -1,0 +1,173 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 65
+Number of records retrieved in searches: 128
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 56
+	Country: Germany ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-04 ; Times: 3
+	Date: 2018-04-17 ; Times: 5
+	Date: 2018-04-08 ; Times: 2
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-19 ; Times: 4
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-21 ; Times: 3
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-25 ; Times: 14
+	Date: 2018-04-24 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "map turtle" ; Times: 1
+	Query: "ammodramus bairdii stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "genus:Pelecanus preparations:skeleton" ; Times: 2
+	Query: "sturnus vulgaris (emily)" ; Times: 1
+	Query: "Myioborus miniatus ballux" ; Times: 1
+	Query: "contopus cooperi stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Lake mendota" ; Times: 1
+	Query: "genus:Copsychus" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:lobatus genus:Phalaropus class:Aves year &gt;= 1850 year &lt;= 1895 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "crypturellus" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "chordeiles minor stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "passerculus sandwichensis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "empidonax fulvifrons stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "melanerpes uropygialis stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "ammodramus savannarum stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Aeronautes saxatalis hasmass:1" ; Times: 1
+	Query: "UCM 8660" ; Times: 2
+	Query: "UCM 8666" ; Times: 1
+	Query: "UCM 8665" ; Times: 2
+	Query: "Setophaga dominica albilora" ; Times: 1
+	Query: "crypturellus obsoletus" ; Times: 2
+	Query: "Guttatus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "setophaga petechia stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "dumetella carolinensis (emily)" ; Times: 1
+	Query: "specificepithet:townsendi genus:Myadestes year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "gymnorhinus cyanocephalus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "10019" ; Times: 1
+	Query: "specificepithet:canagica genus:Chen" ; Times: 1
+	Query: "catalognumber:2131 institutioncode:UCM" ; Times: 1
+	Query: "melospiza lincolnii stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "colaptes chrysoides stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "myiarchus tuberculifer stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 2
+	Query: "13989" ; Times: 1
+	Query: "Pteroglossus torquatus mappable:1" ; Times: 1
+	Query: "vireo bellii stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "guttatus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "melozone aberti stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:melanocorys genus:Calamospiza class:Aves year &gt;= 1896 year &lt;= 1896" ; Times: 1
+	Query: "catalognumber:2112 institutioncode:UCM" ; Times: 1
+	Query: "progne subis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "Falco mexicanus hasmass:1" ; Times: 1
+	Query: "vireo bellii arizonae stateprovince:Arizona mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 1359 download events in this period)
+Total number of records downloaded: 358
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 38
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 3
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-05 ; Times: 6
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-15 ; Times: 5
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-29 ; Times: 4
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-21 ; Times: 2
+	Date: 2018-04-20 ; Times: 18
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;brazil&#34;" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Callipepla gambelii hasmass:1" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "distance(location,geopoint(40.4619,-103.0293))&lt;50000" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Santa Barbara&#34; (&#34;San Miguel&#34; OR &#34;Santa Rosa&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Barbara&#34;)" ; Times: 1
+	Query: "Caqueta" ; Times: 3
+	Query: "caracara cheriway" ; Times: 1
+	Query: "class:Aves county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Zenaida macroura hasmass:1" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "Psaltriparus minimus hasmass:1" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Sturnella neglecta hasmass:1" ; Times: 1
+	Query: "distance(location,geopoint(18.02125,-67.0769))&lt;50000" ; Times: 1
+	Query: "Agelaius phoeniceus hasmass:1" ; Times: 1
+	Query: "Aeronautes saxatalis hasmass:1" ; Times: 1
+	Query: "Loxia curvirostra hasmass:1" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "caracara" ; Times: 1
+	Query: "Zonotrichia leucophrys gambelii" ; Times: 1
+	Query: "Passer domesticus hasmass:1" ; Times: 1
+	Query: "distance(location,geopoint(18.11352,-66.98676))&lt;50000" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Falco sparverius hasmass:1" ; Times: 1
+	Query: "Poecile gambeli hasmass:1" ; Times: 1
+	Query: "Eremophila alpestris hasmass:1" ; Times: 1
+	Query: "Sayornis saya hasmass:1" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "&#34;whole organism&#34; vntype:specimen order:passeriformes" ; Times: 1
+	Query: "distance(location,geopoint(33.40123,-97.57))&lt;50000" ; Times: 1
+	Query: "genus:Cyanolyca" ; Times: 1
+	Query: "Spinus psaltria hasmass:1" ; Times: 1
+	Query: "Zonotrichia leucophrys hasmass:1" ; Times: 1
+	Query: "Spizella passerina hasmass:1" ; Times: 1
+	Query: "Regulus calendula hasmass:1" ; Times: 1
+	Query: "Haemorhous mexicanus hasmass:1" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "distance(location,geopoint(39.75825,-102.4471))&lt;50000" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 2
+	Query: "Accipiter striatus hasmass:1" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Falco mexicanus hasmass:1" ; Times: 1
+	Query: "Basileuterus coronatus" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+
+
+End of report.
