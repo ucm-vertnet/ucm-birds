@@ -1,0 +1,156 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 269
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 19
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Singapore ; Times: 3
+	Country: United Kingdom ; Times: 51
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 2
+	Date: 2018-05-04 ; Times: 21
+	Date: 2018-05-05 ; Times: 30
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-18 ; Times: 5
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-24 ; Times: 2
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "apertus" ; Times: 1
+	Query: "specificepithet:plumbea genus:Polioptila" ; Times: 1
+	Query: "urubitinga" ; Times: 1
+	Query: "specificepithet:mexicana genus:Tangara" ; Times: 1
+	Query: "specificepithet:quixensis genus:Microrhopias" ; Times: 1
+	Query: "specificepithet:nigricollis genus:Sporophila" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "genus:Picoides year &gt;= 1882 year &lt;= 1882" ; Times: 1
+	Query: "tringa totanus" ; Times: 3
+	Query: "specificepithet:vitriolina genus:Tangara" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "specificepithet:apicalis genus:Myiarchus" ; Times: 1
+	Query: "specificepithet:promeropirhynchus genus:Xiphocolaptes" ; Times: 1
+	Query: "specificepithet:graduacauda genus:Icterus" ; Times: 1
+	Query: "specificepithet:triangularis genus:Xiphorhynchus" ; Times: 1
+	Query: "specificepithet:boissonneautii genus:Pseudocolaptes" ; Times: 1
+	Query: "catalognumber:8768 institutioncode:UCM" ; Times: 1
+	Query: "specificepithet:viridicyanus genus:Cyanolyca" ; Times: 1
+	Query: "specificepithet:coronatus genus:Basileuterus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:riefferii genus:Pipreola" ; Times: 1
+	Query: "specificepithet:atripennis genus:Saltator" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Icterus" ; Times: 1
+	Query: "specificepithet:cayanensis genus:Myiozetetes" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Catherpes" ; Times: 1
+	Query: "Ammodramus bairdii minnesota" ; Times: 1
+	Query: "specificepithet:botterii genus:Peucaea" ; Times: 1
+	Query: "specificepithet:ignobilis genus:Turdus" ; Times: 1
+	Query: "specificepithet:ultramarina genus:Aphelocoma" ; Times: 1
+	Query: "specificepithet:ruficapilla genus:Grallaria" ; Times: 1
+	Query: "Oreothlypis luciae" ; Times: 1
+	Query: "specificepithet:aureola genus:Pipra" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Peucedramus" ; Times: 1
+	Query: "specificepithet:affinis genus:Lepidocolaptes" ; Times: 1
+	Query: "specificepithet:montana genus:Buthraupis" ; Times: 1
+	Query: "minnesota Ammodramus bairdii" ; Times: 1
+	Query: "specificepithet:cyanea genus:Diglossa" ; Times: 1
+	Query: "specificepithet:sclateri genus:Parus" ; Times: 1
+	Query: "catalognumber:8769 institutioncode:UCM" ; Times: 1
+	Query: "specificepithet:fuscocinereus genus:Lipaugus" ; Times: 1
+	Query: "specificepithet:gambeli genus:poecile institutioncode:UCM" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Cinclus" ; Times: 1
+	Query: "specificepithet:azarae genus:Synallaxis" ; Times: 1
+	Query: "specificepithet:yncas genus:Cyanocorax" ; Times: 1
+	Query: "specificepithet:cinnamomeus genus:Pachyramphus" ; Times: 1
+	Query: "specificepithet:tristis genus:Acridotheres mappable:1" ; Times: 1
+	Query: "Vireo griseus" ; Times: 1
+	Query: "genus:Pipilo year &gt;= 1899 year &lt;= 1899" ; Times: 1
+	Query: "specificepithet:cinereum genus:Todirostrum" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "specificepithet:vespertinus genus:Coccothraustes" ; Times: 1
+	Query: "El Paso Zoo" ; Times: 1
+	Query: "specificepithet:somptuosus genus:Anisognathus" ; Times: 1
+	Query: "specificepithet:atricristatus genus:Baeolophus" ; Times: 1
+	Query: "buteo jamaicensis harlani" ; Times: 1
+	Query: "specificepithet:xanthocephala genus:Tangara" ; Times: 1
+	Query: "specificepithet:genibarbis genus:Thryothorus" ; Times: 1
+	Query: "Spizaetus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Thamnophilus" ; Times: 1
+	Query: "specificepithet:heinei genus:Tangara" ; Times: 1
+	Query: "specificepithet:peruvianus genus:Rupicola" ; Times: 1
+	Query: "catalognumber:8770 institutioncode:UCM" ; Times: 1
+	Query: "specificepithet:chrysonotus genus:Cacicus" ; Times: 1
+	Query: "specificepithet:pygmaea genus:Sitta" ; Times: 1
+	Query: "specificepithet:viridiflavus genus:Zimmerius" ; Times: 1
+	Query: "specificepithet:rubriceps genus:Piranga" ; Times: 1
+	Query: "specificepithet:imberbe genus:Camptostoma" ; Times: 1
+	Query: "specificepithet:ornatus genus:Cephalopterus" ; Times: 1
+	Query: "specificepithet:malacca genus:Lonchura" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "invertebrates" ; Times: 1
+	Query: "specificepithet:diadema genus:Ochthoeca" ; Times: 1
+	Query: "specificepithet:riefferii genus:Chlorornis" ; Times: 1
+	Query: "distance(location,geopoint(41.4408871659562,-95.9614754317952))&lt;18889" ; Times: 2
+	Query: "payton s" ; Times: 1
+	Query: "specificepithet:passerinii genus:Ramphocelus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1178 download events in this period)
+Total number of records downloaded: 133
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-03 ; Times: 4
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves preparations:skin distance(location,geopoint(37.85750715625203,-121.9866943359375))&lt;45119" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte" ; Times: 1
+	Query: "specificepithet: thalassina genus:Tachycineta hasmass:1" ; Times: 1
+	Query: "ara ararauna" ; Times: 2
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves preparations:skin distance(location,geopoint(37.85750715625203,-121.9866943359375))&lt;28430.074091808372" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "molothrus ater hasmass:1" ; Times: 1
+	Query: "class:aves preparations:skin distance(location,geopoint(37.861844098370945,-122.04025268554688))&lt;80690" ; Times: 2
+	Query: "class:Aves hastissue:1" ; Times: 1
+
+
+End of report.
