@@ -1,0 +1,146 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 221
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 33
+	Country: Singapore ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 38
+	Country: Netherlands ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 5
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-21 ; Times: 8
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-05 ; Times: 10
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-11 ; Times: 4
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-25 ; Times: 30
+	Date: 2018-06-24 ; Times: 3
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:caerulea genus:Passerina stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(39.2400334086807,-86.5684060061948))&lt;11509" ; Times: 1
+	Query: "numenius borealis vntype:specimen" ; Times: 2
+	Query: "diardi" ; Times: 1
+	Query: "Guadalupe Island specificepithet:mexicanus" ; Times: 1
+	Query: "recordedby:Breese" ; Times: 1
+	Query: "tringa totanus" ; Times: 2
+	Query: "Spizaetus" ; Times: 1
+	Query: "specificepithet:leucura genus:lagopus" ; Times: 2
+	Query: "Oreothlypis peregrina" ; Times: 2
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "locality:EL MORRO stateprovince:&#34;NEW MEXICO&#34;" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila year &gt;= 1911 year &lt;= 1911" ; Times: 1
+	Query: "Junco hyemalis aikeni" ; Times: 1
+	Query: "nmnh" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "catalognumber:2110 institutioncode:UCM" ; Times: 3
+	Query: "locality:el morro" ; Times: 2
+	Query: "lagopus leucura" ; Times: 4
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "catalognumber:1915 institutioncode:UCM" ; Times: 1
+	Query: "recordedby:Beidleman" ; Times: 1
+	Query: "anthracinus" ; Times: 3
+	Query: "copsychus saularis" ; Times: 2
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "Turdus institutioncode:UCM hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(44.954125234549,-93.1744568655617))&lt;12380" ; Times: 1
+	Query: "Momotus lessonii" ; Times: 2
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 3
+	Query: "crowley county colorado" ; Times: 1
+	Query: "numenius borealis" ; Times: 29
+	Query: "specificepithet:gallus genus:Gallus preparations:skeleton" ; Times: 1
+	Query: "specificepithet:saularis genus:Copsychus" ; Times: 1
+	Query: "El Paso Zoo" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1169 download events in this period)
+Total number of records downloaded: 1002
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 15
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-29 ; Times: 3
+	Date: 2018-06-15 ; Times: 6
+	Date: 2018-06-16 ; Times: 4
+	Date: 2018-06-19 ; Times: 8
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Passeriformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "Guadalupe Island specificepithet:mexicanus" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "order:Passeriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(35.784892341187586,-116.70189927220218))&lt;177353" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "Junco hyemalis aikeni" ; Times: 2
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "locality:el morro" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 7
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "order:Galliformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "order:Passeriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "order:Falconiformes" ; Times: 1
+	Query: "Aves class:Aves country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
