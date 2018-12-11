@@ -1,0 +1,165 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 177
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Honduras ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 19
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 51
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 2
+	Date: 2018-11-08 ; Times: 2
+	Date: 2018-11-07 ; Times: 3
+	Date: 2018-11-06 ; Times: 3
+	Date: 2018-11-05 ; Times: 9
+	Date: 2018-11-04 ; Times: 9
+	Date: 2018-11-03 ; Times: 5
+	Date: 2018-11-02 ; Times: 3
+	Date: 2018-11-01 ; Times: 6
+	Date: 2018-11-24 ; Times: 1
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-21 ; Times: 1
+	Date: 2018-11-20 ; Times: 1
+	Date: 2018-11-29 ; Times: 1
+	Date: 2018-11-28 ; Times: 2
+	Date: 2018-11-18 ; Times: 6
+	Date: 2018-11-19 ; Times: 5
+	Date: 2018-11-10 ; Times: 2
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-14 ; Times: 2
+	Date: 2018-11-15 ; Times: 8
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tyrannus genus:Tyrannus year &gt;= 1899 year &lt;= 1899 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "family:falconidae hastissue:1" ; Times: 1
+	Query: "specificepithet:australis genus:Leucosticte" ; Times: 1
+	Query: "genus:Colinus specificepithet:virginianus " ; Times: 4
+	Query: "Psittacula himalayana" ; Times: 1
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "13992" ; Times: 1
+	Query: "Numenius americanus mappable:1" ; Times: 2
+	Query: "specificepithet:curvirostra genus:Loxia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 4
+	Query: "specificepithet:melodia genus:Melospiza class:aves year &gt;= 1894 year &lt;= 1894 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "parus carolinensis ohio" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "buteo albonotatus mexico" ; Times: 1
+	Query: "genus:Toxostoma year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "Leucosticte australis El Paso" ; Times: 1
+	Query: "spizaetus ornatus" ; Times: 2
+	Query: "Cardinalis sinuatus sinuatus mappable:1" ; Times: 3
+	Query: "mele" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila county:&#34;Riverside&#34;" ; Times: 1
+	Query: "class:aves catalognumber:2592" ; Times: 1
+	Query: "buteogallus urubitinga" ; Times: 1
+	Query: "specificepithet:carolina genus:Porzana stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "setophaga caerulescens" ; Times: 1
+	Query: "minnesota Buteo platypterus" ; Times: 1
+	Query: "catalognumber:12480" ; Times: 2
+	Query: "champaign" ; Times: 4
+	Query: "oreothlypis peregrina" ; Times: 2
+	Query: "specificepithet:breweri genus:Spizella year &gt;= 1897 year &lt;= 1897" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Lanius class:aves year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "Cardinalis sinuatus mappable:1" ; Times: 3
+	Query: "minnesota Spizella passerina" ; Times: 4
+	Query: "catalognumber:11112" ; Times: 1
+	Query: "poecile missouri" ; Times: 2
+	Query: "ara macao" ; Times: 1
+	Query: "genus:Pheucticus class:aves year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "Picoides dorsalis" ; Times: 1
+	Query: "genus:Catharus specificepithet:minimus " ; Times: 4
+	Query: "minnesota Falco sparverius" ; Times: 1
+	Query: "specificepithet:pallida genus:Spizella class:aves year &gt;= 1897 year &lt;= 1897" ; Times: 2
+	Query: "specificepithet:tyrannus genus:Tyrannus year &gt;= 1899 year &lt;= 1899" ; Times: 1
+	Query: "circus hudsonicus" ; Times: 1
+	Query: "specificepithet:carolina genus:Porzana stateprovince:&#34;Kansas&#34; month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza class:aves year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "minnesota Vireo gilvus" ; Times: 2
+	Query: "spizaetus" ; Times: 3
+	Query: "parus missouri" ; Times: 1
+	Query: "El Paso Zoo" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1719 download events in this period)
+Total number of records downloaded: 1254
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 27
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-07 ; Times: 4
+	Date: 2018-11-06 ; Times: 4
+	Date: 2018-11-05 ; Times: 5
+	Date: 2018-11-03 ; Times: 7
+	Date: 2018-11-02 ; Times: 4
+	Date: 2018-11-01 ; Times: 8
+	Date: 2018-11-25 ; Times: 1
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-14 ; Times: 2
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-29 ; Times: 3
+	Date: 2018-11-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "family:falconidae hastissue:1" ; Times: 1
+	Query: "junco hyemalis vntype:specimen" ; Times: 1
+	Query: "specificepithet:australis genus:Leucosticte" ; Times: 1
+	Query: "family:accipitridae hastissue:1" ; Times: 1
+	Query: "poecile atricapillus Michigan" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Hemipus picatus" ; Times: 1
+	Query: "genus:Prunella" ; Times: 2
+	Query: "specificepithet:curvirostra genus:Loxia stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Fringilla coelebs" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "specificepithet:curvirostra genus:Loxia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "parus carolinensis ohio" ; Times: 1
+	Query: "fulmarus glacialis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 1
+	Query: "hemipus picatus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Treron curvirostra" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "setophaga caerulescens" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "poecile missouri" ; Times: 1
+	Query: "Buteo buteo" ; Times: 1
+	Query: "Picoides dorsalis" ; Times: 3
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "specificepithet:otus genus:asio" ; Times: 1
+	Query: "specificepithet:asio genus:megascops" ; Times: 1
+	Query: "poecile atricapillus ohio" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "Zonotrichia leucophrys" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 2
+	Query: "procyon" ; Times: 3
+	Query: "parus missouri" ; Times: 1
+
+
+End of report.
