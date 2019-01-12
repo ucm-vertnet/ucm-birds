@@ -1,0 +1,133 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 54
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 3
+	Country: United States ; Times: 27
+	Country: Peru ; Times: 5
+	Country: Switzerland ; Times: 2
+	Country: Spain ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-05 ; Times: 14
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-01 ; Times: 1
+	Date: 2018-12-24 ; Times: 2
+	Date: 2018-12-25 ; Times: 3
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-29 ; Times: 7
+	Date: 2018-12-17 ; Times: 2
+	Date: 2018-12-16 ; Times: 3
+	Date: 2018-12-02 ; Times: 2
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-07 ; Times: 4
+	Date: 2018-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "MEGASCOPS ALBOGULARIS" ; Times: 2
+	Query: "10732" ; Times: 2
+	Query: "catalognumber:7624 institutioncode:UCM" ; Times: 3
+	Query: "ramphastos" ; Times: 1
+	Query: "melozone albigula" ; Times: 2
+	Query: "specificepithet:ALBOGULARIS genus:MEGASCOPS country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 3
+	Query: "catalognumber:7496 institutioncode:UCM" ; Times: 2
+	Query: "Oreoscoptes montanus mappable:1" ; Times: 1
+	Query: "Aphelocoma coerulescens mappable:1" ; Times: 1
+	Query: "Melanitta nigra mappable:1" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "catalognumber:7398 institutioncode:UCM" ; Times: 2
+	Query: "Buteo albonotatus" ; Times: 2
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "catalognumber:7623 institutioncode:UCM" ; Times: 4
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 2
+	Query: "specificepithet:lewis genus:Melanerpes year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "rupicola peruvianus" ; Times: 2
+	Query: "10379" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 5
+	Query: "catalognumber:11592 institutioncode:UCM" ; Times: 2
+	Query: "vntype:specimen county:&#34;ionia&#34; stateprovince:&#34;michigan&#34; hassex:1" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 809 download events in this period)
+Total number of records downloaded: 629
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Iran ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 7
+	Country: France ; Times: 1
+	Country: United States ; Times: 15
+	Country: Peru ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-11 ; Times: 2
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-17 ; Times: 5
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "steatornis caripensis" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "megascops kennicottii" ; Times: 1
+	Query: "specificepithet:ALBOGULARIS genus:MEGASCOPS country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "vietnam" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "pipreola" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "ecuador aves" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+
+
+End of report.
