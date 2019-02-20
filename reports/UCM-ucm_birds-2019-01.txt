@@ -1,0 +1,160 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 149
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 25
+	Country: Peru ; Times: 40
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-02 ; Times: 4
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-14 ; Times: 8
+	Date: 2019-01-15 ; Times: 6
+	Date: 2019-01-09 ; Times: 10
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-10 ; Times: 3
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-12 ; Times: 8
+	Date: 2019-01-08 ; Times: 11
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-29 ; Times: 6
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-11 ; Times: 6
+	Date: 2019-01-13 ; Times: 6
+	Date: 2019-01-30 ; Times: 3
+	Date: 2019-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "UCM 7475" ; Times: 2
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Crotophaga sulcirostris" ; Times: 1
+	Query: "Lesbia victoriae" ; Times: 1
+	Query: "Brotogeris versicolurus" ; Times: 1
+	Query: "Grallaria ruficapilla" ; Times: 1
+	Query: "Ammodramus savannarum bimaculatus" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "vntype:specimen specificepithet:atrata genus:Leucosticte class:Aves year &gt;= 1850 year &lt;= 1875" ; Times: 1
+	Query: "UCM 4962" ; Times: 2
+	Query: "Pterophanes cyanopterus" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "Pharomachrus auriceps" ; Times: 1
+	Query: "obsoletus mohave" ; Times: 1
+	Query: "Megascops albogularis" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Momotus aequatorialis" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "Ara macao" ; Times: 1
+	Query: "Crypturellus obsoletus" ; Times: 4
+	Query: "vntype:specimen specificepithet:asio genus:megascops stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Pardirallus nigricans" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "(11966)" ; Times: 1
+	Query: "specificepithet:gentilis year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 11
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Megaceryle torquata mappable:1" ; Times: 1
+	Query: "UCM 13212" ; Times: 1
+	Query: "ecuador 1900" ; Times: 1
+	Query: "&#34;G. Willet&#34; AND &#34;Island&#34;" ; Times: 1
+	Query: "Aglaiocercus kingii" ; Times: 1
+	Query: "Xiphocolaptes promeropirhynchus" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 3
+	Query: "genus:Alectoris hasmass:1" ; Times: 1
+	Query: "Pharomachrus pavoninus" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "class:aves haslength:1 hasmedia:1" ; Times: 2
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "Andigena nigrirostris" ; Times: 1
+	Query: "specificepithet:nuttallii genus:Phalaenoptilus hastissue:1" ; Times: 1
+	Query: "cONUROPSIS" ; Times: 2
+	Query: "warreni" ; Times: 2
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Campephilus pollens" ; Times: 1
+	Query: "specificepithet:rubriceps genus:Piranga" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 2
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 1
+	Query: "Microrhopias quixensis" ; Times: 1
+	Query: "NMNH" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Ramphomicron microrhynchum" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Leucosticte australis" ; Times: 2
+	Query: "bonasa 1888" ; Times: 1
+	Query: "Steatornis caripensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 962 download events in this period)
+Total number of records downloaded: 1202
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Canada ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 5
+	Date: 2019-01-02 ; Times: 4
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-15 ; Times: 4
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-11 ; Times: 3
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "melanerpes uropygialis" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+	Query: "cONUROPSIS" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female" ; Times: 1
+	Query: "specificepithet:rubriceps genus:Piranga" ; Times: 1
+	Query: "Calidris canutus rufa" ; Times: 3
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 2
+	Query: "Melanerpes uropygialis" ; Times: 1
+	Query: "specificepithet:curvirostra genus:loxia hasmass:1" ; Times: 1
+	Query: "vntype:specimen class:Aves (culmen)" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Polioptila melanura" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "vntype:specimen class:Aves (culmen) hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "Leucosticte australis" ; Times: 2
+	Query: "Colaptes chrysoides" ; Times: 1
+
+
+End of report.
