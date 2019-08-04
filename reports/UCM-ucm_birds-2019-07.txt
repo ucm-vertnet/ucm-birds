@@ -1,0 +1,175 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 123
+Number of records retrieved in searches: 897
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 103
+	Country: Nepal ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 6
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-12 ; Times: 28
+	Date: 2019-07-13 ; Times: 3
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-16 ; Times: 7
+	Date: 2019-07-17 ; Times: 2
+	Date: 2019-07-15 ; Times: 7
+	Date: 2019-07-29 ; Times: 3
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-08 ; Times: 26
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-20 ; Times: 2
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-26 ; Times: 3
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-01 ; Times: 6
+	Date: 2019-07-03 ; Times: 3
+	Date: 2019-07-05 ; Times: 9
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:89337996-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "genus:Mniotilta" ; Times: 1
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "genus:Porphyrio specificepithet:martinica" ; Times: 1
+	Query: "Cardellina rubifrons" ; Times: 1
+	Query: "42-480" ; Times: 1
+	Query: "Guadalupe Island AND Haemorhous" ; Times: 1
+	Query: "type specimens of birds" ; Times: 1
+	Query: "genus:Megaceryle specificepithet:alcyon" ; Times: 1
+	Query: "locality:shelter island county:&#34;suffolk&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "thryothorus burleighi" ; Times: 1
+	Query: "nutria" ; Times: 1
+	Query: "family:trochilidae haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Seiurus specificepithet:aurocapilla" ; Times: 1
+	Query: "Chen caerulescens" ; Times: 2
+	Query: "class:Aves recordedby:Holland" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 2
+	Query: "Setophaga americana" ; Times: 5
+	Query: "gbifdatasetid:89337996-f762-11e1-a439-00145eb45e9a procellariiformes" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "Amazona autumnalis mappable:1" ; Times: 1
+	Query: "genus:Columba specificepithet:livia" ; Times: 1
+	Query: "genus:Protonotaria specificepithet:citrea" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 34
+	Query: "vntype:specimen specificepithet:FEMORALIS genus:FALCO family:FALCONIDAE stateprovince:&#34;NEW MEXICO&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves recordedby:Girard" ; Times: 2
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Mississippi&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 2
+	Query: "Molothrus bonariensis mappable:1" ; Times: 1
+	Query: "genus:Phasianus" ; Times: 1
+	Query: "Strix occidentalis lucida mappable:1" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Empidonax stateprovince:&#34;wyoming&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Polioptila specificepithet:caerulea" ; Times: 1
+	Query: "genus:Sternula specificepithet:antillarum" ; Times: 1
+	Query: "megascops asio" ; Times: 2
+	Query: "Coccyzus americanus americanus mappable:1" ; Times: 1
+	Query: "Vireo bellii pusillus mappable:1" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "Ara macao mappable:1" ; Times: 1
+	Query: "recordedby:F. Gruber" ; Times: 1
+	Query: "genus:Cyanocorax specificepithet:yncas" ; Times: 1
+	Query: "gruber california" ; Times: 3
+	Query: "specificepithet:monocerata year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "Guadalupe Island AND Haemorhous NOT Burt" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Empidonax year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "setophaga striata" ; Times: 1
+	Query: "specificepithet:redivivum genus:toxostoma county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Spiza specificepithet:americana" ; Times: 1
+	Query: "Sternula antillarum mappable:1" ; Times: 5
+	Query: "genus:Bonasa" ; Times: 1
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "genus:Rallus specificepithet:limicola" ; Times: 1
+	Query: "specificepithet:livia genus:columba continent:north america" ; Times: 1
+	Query: "Strix occidentalis mappable:1" ; Times: 2
+	Query: "Branta bernicla" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;North Carolina&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:rubriceps genus:Piranga" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 2
+	Query: "Aphelocoma coerulescens coerulescens mappable:1" ; Times: 1
+	Query: "Amazona farinosa mappable:1" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Empidonax stateprovince:&#34;wyoming&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "genus:Spinus specificepithet:pinus" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "genus:Athene specificepithet:cunicularia" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri) year &gt;= 1000 year &lt;= 1920" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 985 download events in this period)
+Total number of records downloaded: 324
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 17
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-08 ; Times: 4
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-12 ; Times: 4
+	Date: 2019-07-31 ; Times: 4
+	Date: 2019-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cardellina rubifrons" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri NOT asiatica) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:collaris genus:trogon" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Empidonax stateprovince:&#34;wyoming&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 2
+	Query: "passer domesticus" ; Times: 1
+	Query: "family:icteridae haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Porzana carolina" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "spizella" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "Chen canagica" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:caudata genus:Chiroxiphia class:Aves" ; Times: 1
+	Query: "upupa epops" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo" ; Times: 1
+
+
+End of report.
