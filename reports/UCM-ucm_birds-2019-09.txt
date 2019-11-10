@@ -1,0 +1,142 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 223
+Number of records retrieved in searches: 1138
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 216
+	Country: Kuwait ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 21
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-04 ; Times: 40
+	Date: 2019-09-06 ; Times: 126
+	Date: 2019-09-05 ; Times: 13
+	Date: 2019-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphelocoma New Mexico Grant County" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "Calidris canutus" ; Times: 10
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "catalognumber institutioncode:UCM 7964" ; Times: 2
+	Query: "10430" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "genus:Buteogallus NOT (skin egg)" ; Times: 1
+	Query: "Aphelocoma californica Marin County" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Aphelocoma californica Santa Clara County" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 6
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Colorado&#34; sex:female basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "Holmgren AND Island" ; Times: 1
+	Query: "catalognumber:13332 institutioncode:UCM" ; Times: 2
+	Query: "Aphelocoma coerulescens" ; Times: 49
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 20
+	Query: "genus:Buteogallus AND (skin)" ; Times: 1
+	Query: "Corvus brachyrhynchos colorado" ; Times: 1
+	Query: "Aphelocoma californica San Diego County" ; Times: 1
+	Query: "genus:Buteogallus AND (skin) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber institutioncode:UCM 7956" ; Times: 2
+	Query: "ara macao" ; Times: 1
+	Query: "vireo bellii san diego" ; Times: 1
+	Query: "specificepithet:gambeli genus:poecile stateprovince:&#34;Colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:7964 institutioncode:UCM" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 30
+	Query: "specificepithet:minor genus:Parus class:Aves" ; Times: 3
+	Query: "Ictinia mississippiensis distance(location,geopoint(33.80220134903146,-98.21587224960564))&lt;100000" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 10
+	Query: "Empidonax traillii" ; Times: 24
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "class:Aves catalognumber:13333 institutioncode:UCM" ; Times: 1
+	Query: "Chrysolampis elatus" ; Times: 1
+	Query: "Aphelocoma californica Colorado Fremont County" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 36
+	Query: "catalognumber institutioncode:UCM 13333" ; Times: 1
+	Query: "catalognumber institutioncode:UCM 13332" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1073 download events in this period)
+Total number of records downloaded: 282
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 22
+	Country: Switzerland ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 7
+	Date: 2019-09-11 ; Times: 9
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-18 ; Times: 5
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Lesbia" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "order:passeriformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "lagopus newfoundland vntype:specimen" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Aglaiocercus kingii" ; Times: 2
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Chrysolampis elatus" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+
+
+End of report.
