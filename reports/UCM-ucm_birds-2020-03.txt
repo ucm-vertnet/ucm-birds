@@ -1,0 +1,140 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 190
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 55
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-08 ; Times: 2
+	Date: 2020-03-18 ; Times: 2
+	Date: 2020-03-26 ; Times: 4
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 4
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-23 ; Times: 5
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-05 ; Times: 7
+	Date: 2020-03-09 ; Times: 6
+	Date: 2020-03-04 ; Times: 3
+	Date: 2020-03-06 ; Times: 12
+	Date: 2020-03-07 ; Times: 3
+	Date: 2020-03-29 ; Times: 2
+	Date: 2020-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Accipiter cooperi" ; Times: 1
+	Query: "Icterus stateprovince:&#34;Colorado&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "Spatula clypeata" ; Times: 2
+	Query: "Laterallus jamaicensis" ; Times: 10
+	Query: "Pipilo stateprovince:&#34;Colorado&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "&#34;WING CHORD&#34; specificepithet:aurocapilla genus:Seiurus continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "Pheucticus stateprovince:&#34;Colorado&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "vireo vicinior" ; Times: 1
+	Query: "melozone albigula" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "genus:Laterallus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Colorado&#34; institutioncode:UCM" ; Times: 2
+	Query: "13715" ; Times: 2
+	Query: "12212" ; Times: 1
+	Query: "laterallus jamaicensis" ; Times: 1
+	Query: "elanoides" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Illinois&#34; (cerulea) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Maine&#34; (petechia) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (Setophaga petechia) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "albolarvatus California San Bernardino" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Buteo month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Virginia&#34; (Aves coronata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "&#34;WING CHORD&#34; specificepithet:platyrhynchos genus:ANAS continent:NORTH AMERICA lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:cinclus specificepithet:mexicanus" ; Times: 1
+	Query: "El Paso Zoo" ; Times: 1
+	Query: "Quercus rubra" ; Times: 1
+	Query: "specificepithet:aurocapilla genus:Seiurus continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Lagopus country:&#34;United States&#34; AND (NOT Alaska) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves haslifestage:1 hassex:1 hasmass:1 haslength:1 hasmedia:1" ; Times: 1
+	Query: "genus:alauda country:&#34;japan&#34;" ; Times: 3
+	Query: "Glareola maldivarum" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (petechia) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "F. domesticus" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (Setophaga coronata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "sterna dougallii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 853 download events in this period)
+Total number of records downloaded: 234
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Canada ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-31 ; Times: 2
+	Date: 2020-03-09 ; Times: 5
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-05 ; Times: 4
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-06 ; Times: 7
+	Date: 2020-03-12 ; Times: 3
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "elanus leucurus" ; Times: 1
+	Query: "genus:Baeolophus stateprovince:&#34;Texas&#34; year &lt;= 1950" ; Times: 1
+	Query: "Icterus icterus vntype:specimen country:&#34;Colombia&#34;" ; Times: 1
+	Query: "&#34;WING CHORD&#34; specificepithet:aurocapilla genus:Seiurus continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "specificepithet:aurocapilla genus:Seiurus continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;Japan&#34;" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "genus:Passerina stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "colaptes chrysoides" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Pheucticus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:minimus genus:Psaltriparus hassex:1 hasmass:1" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "genus:Passerina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2010" ; Times: 1
+
+
+End of report.
