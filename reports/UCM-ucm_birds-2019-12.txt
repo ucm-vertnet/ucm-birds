@@ -1,0 +1,87 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 107
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 18
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-04 ; Times: 3
+	Date: 2019-12-21 ; Times: 4
+	Date: 2019-12-20 ; Times: 2
+	Date: 2019-12-22 ; Times: 1
+	Date: 2019-12-18 ; Times: 4
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-11 ; Times: 4
+	Date: 2019-12-13 ; Times: 2
+	Date: 2019-12-03 ; Times: 5
+	Date: 2019-12-02 ; Times: 2
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:autumnalis genus:amazona" ; Times: 1
+	Query: "specificepithet:obsoletus genus:crypturellus family:tinamidae order:tinamiformes class:aves" ; Times: 1
+	Query: "specificepithet:pictus genus:Myioborus mappable:1" ; Times: 1
+	Query: "specificepithet:brasilianum genus:Glaucidium class:Aves stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:auriceps genus:Pharomachrus mappable:1" ; Times: 1
+	Query: "Crypturellus obsoletus" ; Times: 3
+	Query: "myiarchus apicalis" ; Times: 2
+	Query: "domestic chicken" ; Times: 1
+	Query: "205 specificepithet:aedon genus:troglodytes" ; Times: 2
+	Query: "13110" ; Times: 1
+	Query: "11270." ; Times: 1
+	Query: "specificepithet:antisianus genus:Pharomachrus mappable:1" ; Times: 1
+	Query: "arachnothera sordida" ; Times: 2
+	Query: "spinus tristis pallidus" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 1
+	Query: "205 genus:troglodytes" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "genus:catharus stateprovince:&#34;colorado&#34;" ; Times: 3
+	Query: "genus:Ramphastos" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 3
+	Query: "genus:catharus stateprovince:&#34;colorado&#34; month &gt;= 6 month &lt;= 7" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 596 download events in this period)
+Total number of records downloaded: 201
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Hong Kong ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "spinus tristis pallidus" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+
+
+End of report.
