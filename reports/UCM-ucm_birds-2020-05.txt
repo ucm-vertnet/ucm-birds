@@ -1,0 +1,112 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 81
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 30
+	Country: United States ; Times: 18
+	Country: Ireland ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-04 ; Times: 3
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-19 ; Times: 5
+	Date: 2020-05-07 ; Times: 9
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-10 ; Times: 3
+	Date: 2020-05-06 ; Times: 6
+	Date: 2020-05-05 ; Times: 8
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-01 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "Charadrius nivosus" ; Times: 1
+	Query: "Falco sparverius ws OR wingspan OR wing+span" ; Times: 7
+	Query: "Selasphorus calliope hastissue:1" ; Times: 1
+	Query: "Charadrius alexandrinus" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "September 29 Catharus" ; Times: 1
+	Query: "genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Texas Accipiter cooperii" ; Times: 1
+	Query: "Buteo jamaicensis ws OR wingspan OR wing+span" ; Times: 7
+	Query: "Buteo jamaicensis harlani" ; Times: 3
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "Buteo regalis ws OR wingspan OR wing+span" ; Times: 9
+	Query: "Sturnus contra" ; Times: 2
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "Sialia currucoides ws OR wingspan OR wing+span" ; Times: 7
+	Query: "12552" ; Times: 1
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 3
+	Query: "Andigena nigrirostris" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 3
+	Query: "locality:accotink" ; Times: 1
+	Query: "Texas Ictinia mississippiensis" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis sex:male" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:male" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1106 download events in this period)
+Total number of records downloaded: 543
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 18
+	Country: Singapore ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 7
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Scolopacidae year &gt;= 1980 year &lt;= 2019 month &gt;= 1 month &lt;= 12 hastissue:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "class:AVES stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "family:Accipitridae preparations:frozen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Rollo Beck" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "petechia" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+
+
+End of report.
