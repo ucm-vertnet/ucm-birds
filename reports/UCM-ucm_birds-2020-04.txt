@@ -1,0 +1,226 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 488
+Number of records retrieved in searches: 1301
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 30
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 6
+	Country: United Kingdom ; Times: 440
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 2
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 3
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-17 ; Times: 10
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 37
+	Date: 2020-04-22 ; Times: 4
+	Date: 2020-04-23 ; Times: 2
+	Date: 2020-04-07 ; Times: 166
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-02 ; Times: 7
+	Date: 2020-04-03 ; Times: 68
+	Date: 2020-04-21 ; Times: 125
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 51
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 10
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "Cypsiurus parvus" ; Times: 3
+	Query: "specificepithet:jamaicensis genus:Laterallus" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 4
+	Query: "Anas acuta" ; Times: 13
+	Query: "Himantopus himantopus" ; Times: 2
+	Query: "Turdus chrysolaus" ; Times: 9
+	Query: "Anas strepera" ; Times: 13
+	Query: "Tachycineta thalassina" ; Times: 4
+	Query: "bicknelli" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 3
+	Query: "Gallinago gallinago" ; Times: 4
+	Query: "Pelecanus occidentalis" ; Times: 7
+	Query: "Turdus naumanni" ; Times: 15
+	Query: "Archilochus colubris" ; Times: 2
+	Query: "Buteo albicaudatus" ; Times: 5
+	Query: "Piranga ludoviciana" ; Times: 8
+	Query: "Buteo platypterus" ; Times: 7
+	Query: "Grus canadensis" ; Times: 4
+	Query: "Gallinago delicata" ; Times: 5
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "A. pygmaea" ; Times: 6
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "Larus dominicanus" ; Times: 6
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "F. domesticus" ; Times: 5
+	Query: "Buteogallus anthracinus" ; Times: 4
+	Query: "Sternula albifrons" ; Times: 1
+	Query: "bicknelli vntype:specimen" ; Times: 1
+	Query: "Anas crecca" ; Times: 13
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Fulica americana" ; Times: 3
+	Query: "Laterallus jamaicensis" ; Times: 5
+	Query: "&#34;WING CHORD&#34; specificepithet:macroura genus:Zenaida continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "&#34;WING CHORD&#34; specificepithet:canadensis genus:Branta continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Rupicola peruvianus" ; Times: 2
+	Query: "(10009)" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 2
+	Query: "Buteogallus urubitinga" ; Times: 4
+	Query: "genus:Colaptes class:aves stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "Aix galericulata" ; Times: 2
+	Query: "&#34;WING CHORD&#34; specificepithet:macroura genus:Zenaida continent:North America lifestage:Adult haslifestage:1 hassex:1" ; Times: 1
+	Query: "Serinus canaria" ; Times: 3
+	Query: "Catharus guttatus minnesota" ; Times: 1
+	Query: "Buteo lineatus" ; Times: 7
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Phoenicurus auroreus" ; Times: 9
+	Query: "Gallinago nobilis" ; Times: 1
+	Query: "Tringa melanoleuca" ; Times: 5
+	Query: "Circus cyaneus" ; Times: 4
+	Query: "&#34;WING CHORD&#34; specificepithet:canadensis genus:Branta continent:North America lifestage:Adult haslifestage:1 hassex:1" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 7
+	Query: "Catharus guttatus auduboni minnesota" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 6
+	Query: "Gila nigrescens" ; Times: 7
+	Query: "Branta bernicla" ; Times: 5
+	Query: "Ptychoramphus aleuticus" ; Times: 6
+	Query: "Eophona personata" ; Times: 8
+	Query: "Pica pica" ; Times: 4
+	Query: "Piranga rubriceps" ; Times: 3
+	Query: "Larus delawarensis" ; Times: 6
+	Query: "pharomachrus antisianus" ; Times: 2
+	Query: "Phalaropus tricolor" ; Times: 5
+	Query: "Setophaga citrina" ; Times: 2
+	Query: "Branta canadensis" ; Times: 5
+	Query: "Setophaga striata" ; Times: 5
+	Query: "setophaga castanea" ; Times: 1
+	Query: "Dicaeum trigonostigma" ; Times: 4
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "specificepithet:canadensis genus:Branta continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Piranga flava" ; Times: 5
+	Query: "pavo cristatus" ; Times: 2
+	Query: "Xema sabini" ; Times: 6
+	Query: "Calamospiza melanocorys" ; Times: 3
+	Query: "Passerina amoena" ; Times: 8
+	Query: "Buteo regalis" ; Times: 4
+	Query: "Chroicocephalus ridibundus" ; Times: 6
+	Query: "Molothrus aeneus" ; Times: 2
+	Query: "Coccyzus erythropthalmus" ; Times: 2
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "Accipiter gentilis" ; Times: 4
+	Query: "specificepithet:macroura genus:Zenaida continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 6
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "Melospiza melodia salt lake utah april" ; Times: 1
+	Query: "Himantopus mexicanus" ; Times: 2
+	Query: "Asio flammeus" ; Times: 3
+	Query: "Icteria virens" ; Times: 2
+	Query: "Columba livia" ; Times: 3
+	Query: "Piranga olivacea" ; Times: 5
+	Query: "Aeronautes saxatalis" ; Times: 3
+	Query: "UCM 13328" ; Times: 1
+	Query: "13890" ; Times: 2
+	Query: "Tachycineta bicolor" ; Times: 3
+	Query: "Corvus cryptoleucus" ; Times: 9
+	Query: "Spinus pinus" ; Times: 3
+	Query: "Buteo lagopus" ; Times: 6
+	Query: "Plectrophenax nivalis" ; Times: 3
+	Query: "Buteo albonotatus" ; Times: 6
+	Query: "Anas platyrhynchos lifestage:adult sex:male AND (NOT diazi)" ; Times: 1
+	Query: "Copsychus saularis" ; Times: 3
+	Query: "Pheucticus ludovicianus" ; Times: 8
+	Query: "Coturnix japonica" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 12
+	Query: "Thayer AND Guadalupe" ; Times: 1
+	Query: "Podiceps auritus" ; Times: 7
+	Query: "Laterallus jamaicensis jamaicensis" ; Times: 2
+	Query: "Acanthis flammea" ; Times: 3
+	Query: "Aix sponsa" ; Times: 2
+	Query: "Steatornis caripensis" ; Times: 5
+	Query: "Zonotrichia querula Texas" ; Times: 1
+	Query: "Sitta pusilla" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+	Query: "&#34;Wing Chord&#34; specificepithet:albicollis genus:Zonotrichia continent:North America lifestage:ADULT haslifestage:1 hassex:1" ; Times: 1
+	Query: "Piranga rubra" ; Times: 5
+	Query: "Anas clypeata" ; Times: 13
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1171 download events in this period)
+Total number of records downloaded: 411
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-02 ; Times: 6
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 3
+	Date: 2020-04-30 ; Times: 3
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-21 ; Times: 2
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:macroura genus:Zenaida continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "vntype:specimen genus:Bubo" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "&#34;WING CHORD&#34; specificepithet:macroura genus:Zenaida continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "&#34;WING CHORD&#34; specificepithet:canadensis genus:Branta continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "&#34;WING CHORD&#34; specificepithet:macroura genus:Zenaida continent:North America lifestage:Adult haslifestage:1 hassex:1" ; Times: 1
+	Query: "Scolopax" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Gallinago nobilis" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Spizella passerina hasmass:1" ; Times: 1
+	Query: "Athene cunicularia hypugaea" ; Times: 1
+	Query: "family:Passerellidae hastissue:1" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "&#34;WING CHORD&#34; specificepithet:canadensis genus:Branta continent:North America lifestage:Adult haslifestage:1 hassex:1" ; Times: 1
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "Zonotrichia querula Texas" ; Times: 1
+	Query: "&#34;Wing Chord&#34; specificepithet:albicollis genus:Zonotrichia continent:North America lifestage:ADULT haslifestage:1 hassex:1" ; Times: 1
+
+
+End of report.
