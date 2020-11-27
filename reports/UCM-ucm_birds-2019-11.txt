@@ -1,0 +1,173 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 234
+Number of records retrieved in searches: 619
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 7
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 214
+	Country: Germany ; Times: 2
+	Country: Thailand ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-22 ; Times: 8
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-25 ; Times: 4
+	Date: 2019-11-08 ; Times: 35
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-06 ; Times: 16
+	Date: 2019-11-07 ; Times: 49
+	Date: 2019-11-16 ; Times: 41
+	Date: 2019-11-02 ; Times: 2
+	Date: 2019-11-10 ; Times: 6
+	Date: 2019-11-13 ; Times: 4
+	Date: 2019-11-01 ; Times: 12
+	Date: 2019-11-15 ; Times: 17
+	Date: 2019-11-09 ; Times: 29
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-14 ; Times: 4
+	Date: 2019-11-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Heliangelus strophianus" ; Times: 7
+	Query: "heliangelus spencei" ; Times: 1
+	Query: "Coccyzus americanus 2007" ; Times: 4
+	Query: "heliangelus spencei vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aphelocoma coerulescens 1993" ; Times: 6
+	Query: "Pandion haliaetus haliaetus hasmass:1" ; Times: 1
+	Query: "Coccyzus americanus 2003" ; Times: 4
+	Query: "Vireo bellii pusillus 1984" ; Times: 3
+	Query: "16051" ; Times: 1
+	Query: "phasianus" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "Mycteria americana 2013" ; Times: 4
+	Query: "Aphelocoma coerulescens 2014" ; Times: 6
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "Empidonax traillii extimus 2019" ; Times: 4
+	Query: "Aphelocoma coerulescens 2019" ; Times: 12
+	Query: "class:aves catalognumber:14925 year:2000 month:7 day:3" ; Times: 7
+	Query: "Empidonax traillii extimus 2009" ; Times: 4
+	Query: "Vireo bellii pusillus 2009" ; Times: 3
+	Query: "vireo vicinior" ; Times: 1
+	Query: "Strix occidentalis lucida 2019" ; Times: 3
+	Query: "Coccyzus americanus 2014" ; Times: 4
+	Query: "Coccyzus americanus 1981" ; Times: 4
+	Query: "cyanoptera iowa" ; Times: 1
+	Query: "Gallinago gallinago gallinago hasmass:1" ; Times: 1
+	Query: "Coccyzus americanus 1993" ; Times: 4
+	Query: "Nycticorax nycticorax nycticorax hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:12072" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 3
+	Query: "class:aves catalognumber:12070" ; Times: 2
+	Query: "Mycteria americana 2019" ; Times: 4
+	Query: "Ramphastos sulfuratus" ; Times: 2
+	Query: "Mycteria americana 2017" ; Times: 4
+	Query: "Asio otus otus hasmass:1" ; Times: 1
+	Query: "Mycteria americana 2014" ; Times: 4
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Strix occidentalis lucida 2014" ; Times: 3
+	Query: "Vireo bellii pusillus mappable:1" ; Times: 1
+	Query: "Anas crecca crecca hasmass:1" ; Times: 1
+	Query: "Charadrius melodus 2019" ; Times: 4
+	Query: "Mycteria americana 1998" ; Times: 4
+	Query: "Passerina cyanea vntype:specimen country:&#34;United States&#34; collectioncode:Bird specimens" ; Times: 1
+	Query: "Aphelocoma coerulescens 1984" ; Times: 6
+	Query: "Empidonax traillii extimus 1986" ; Times: 4
+	Query: "Calliope calliope hasmass:1" ; Times: 1
+	Query: "garrulax schauenseei" ; Times: 1
+	Query: "Calidris canutus rufa 2019" ; Times: 5
+	Query: "Spizella pusilla" ; Times: 1
+	Query: "Aphelocoma coerulescens 1986" ; Times: 6
+	Query: "10565" ; Times: 1
+	Query: "Aphelocoma coerulescens 2008" ; Times: 6
+	Query: "Aphelocoma coerulescens 2009" ; Times: 6
+	Query: "ara macao" ; Times: 1
+	Query: "Anas platyrhynchos platyrhynchos hasmass:1" ; Times: 1
+	Query: "Strix occidentalis lucida 1983" ; Times: 3
+	Query: "Strix occidentalis lucida 2008" ; Times: 3
+	Query: "Coccyzus americanus 1984" ; Times: 4
+	Query: "Coccyzus americanus 1987" ; Times: 4
+	Query: "Coccyzus americanus 1986" ; Times: 4
+	Query: "India bird class:aves country:&#34;India&#34; preparations:skin institutioncode:UCM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anas platyrhynchos 1915" ; Times: 2
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "class:aves catalognumber:12069" ; Times: 1
+	Query: "Calliope calliope calliope hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:14925 year:2000 month:7" ; Times: 5
+	Query: "Strix occidentalis lucida 1984" ; Times: 3
+	Query: "specificepithet:occidentalis class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "Vireo bellii pusillus 2019" ; Times: 3
+	Query: "Strix occidentalis lucida 1989" ; Times: 3
+	Query: "Vireo bellii pusillus 1987" ; Times: 3
+	Query: "Charadrius melodus 1979" ; Times: 4
+	Query: "Lonchura malacca" ; Times: 1
+	Query: "new mexico junco phaeonotus" ; Times: 1
+	Query: "Spizella breweri" ; Times: 1
+	Query: "Coccyzus americanus 2019" ; Times: 12
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1367 download events in this period)
+Total number of records downloaded: 540
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: India ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-06 ; Times: 13
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &lt;= 1930" ; Times: 1
+	Query: "order:Charadriiformes" ; Times: 4
+	Query: "order:Caprimulgiformes" ; Times: 1
+	Query: "order:Anseriformes" ; Times: 2
+	Query: "vntype:specimen order:Passeriformes class:Aves stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "order:Cathartiformes" ; Times: 2
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto (stomach)" ; Times: 1
+	Query: "saltator striatipectus" ; Times: 2
+	Query: "India bird class:aves country:&#34;India&#34; preparations:skin institutioncode:UCM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Melospiza melodia" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "wing specificepithet:vociferus genus:Charadrius" ; Times: 1
+	Query: "order:Accipitriformes" ; Times: 1
+	Query: "vireo vicinior" ; Times: 1
+	Query: "trochilidae preparations:wing" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "Africa" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+
+
+End of report.
