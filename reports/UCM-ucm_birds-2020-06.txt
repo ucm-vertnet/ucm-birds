@@ -1,0 +1,143 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 631
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 57
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 2
+	Country: France ; Times: 5
+	Country: United States ; Times: 27
+	Country: United Kingdom ; Times: 31
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-14 ; Times: 8
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-11 ; Times: 15
+	Date: 2020-06-04 ; Times: 6
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-03 ; Times: 57
+	Date: 2020-06-01 ; Times: 8
+	Date: 2020-06-15 ; Times: 2
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-10 ; Times: 25
+	Date: 2020-06-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus hasmass:1" ; Times: 1
+	Query: "Anas carolinensis" ; Times: 6
+	Query: "Anas acuta" ; Times: 5
+	Query: "Anas crecca" ; Times: 6
+	Query: "Pandion haliaetus hasmass:1" ; Times: 1
+	Query: "Falco sparverius mass OR weight" ; Times: 3
+	Query: "Anas platyrhynchos hasmass:1" ; Times: 1
+	Query: "Zenaida macroura mass OR weight" ; Times: 2
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 8
+	Query: "Zenaida macroura hasmass:1" ; Times: 1
+	Query: "Anas strepera" ; Times: 6
+	Query: "Buteo regalis mass OR weight" ; Times: 2
+	Query: "Branta canadensis mass OR weight" ; Times: 2
+	Query: "Sialia mexicana hasmass:1" ; Times: 1
+	Query: "buteo ridgway" ; Times: 1
+	Query: "Haliaeetus leucocephalus mass OR weight" ; Times: 2
+	Query: "class:Aves recordedby:Aiken year &gt;= 1873 year &lt;= 1877" ; Times: 1
+	Query: "Aquila chrysaetos hasmass:1" ; Times: 1
+	Query: "Accipiter gentilis mass OR weight" ; Times: 2
+	Query: "Pelecanus erythrorhynchos mass OR weight" ; Times: 2
+	Query: "Tyto alba hasmass:1" ; Times: 1
+	Query: "Tachycineta bicolor hasmass:1" ; Times: 1
+	Query: "Accipiter gentilis hasmass:1" ; Times: 1
+	Query: "class:Aves recordedby:Aiken year &gt;= 1877 year &lt;= 1877" ; Times: 1
+	Query: "Buteo jamaicensis hasmass:1" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Pandion haliaetus mass OR weight" ; Times: 2
+	Query: "Anas platyrhynchos mass OR weight" ; Times: 2
+	Query: "Sialia currucoides mass OR weight" ; Times: 2
+	Query: "Buteo jamaicensis mass OR weight" ; Times: 3
+	Query: "Anas platyrhynchos" ; Times: 2
+	Query: "Falco sparverius hasmass:1" ; Times: 2
+	Query: "Chrysolampis Venezuela" ; Times: 1
+	Query: "Accipiter cooperii mass OR weight" ; Times: 2
+	Query: "Tachycineta bicolor mass OR weight" ; Times: 2
+	Query: "Haliaeetus leucocephalus hasmass:1" ; Times: 1
+	Query: "genus:Chiroxiphia specificepithet:caudata" ; Times: 3
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Falco peregrinus mass OR weight" ; Times: 2
+	Query: "Branta canadensis hasmass:1" ; Times: 2
+	Query: "Ara macao" ; Times: 2
+	Query: "acrocephalus arundinaceus" ; Times: 1
+	Query: "Buteo regalis hasmass:1" ; Times: 1
+	Query: "Sialia mexicana mass OR weight" ; Times: 2
+	Query: "genus:Parus class:Aves recordedby:Aiken" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "Strix occidentalis lucida" ; Times: 3
+	Query: "Centrocercus urophasianus" ; Times: 12
+	Query: "(10058)" ; Times: 1
+	Query: "Aquila chrysaetos mass OR weight" ; Times: 2
+	Query: "Sialia currucoides hasmass:1" ; Times: 1
+	Query: "class:Aves recordedby:Aiken" ; Times: 2
+	Query: "Accipiter cooperii hasmass:1" ; Times: 2
+	Query: "Pelecanus erythrorhynchos hasmass:1" ; Times: 1
+	Query: "Tyto alba mass OR weight" ; Times: 2
+	Query: "Microhierax caerulescens" ; Times: 2
+	Query: "Anas clypeata" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 474 download events in this period)
+Total number of records downloaded: 172
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 14
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-10 ; Times: 15
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "genus:Passerina month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "scrub jay" ; Times: 2
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "Chrysolampis Venezuela" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+
+
+End of report.
