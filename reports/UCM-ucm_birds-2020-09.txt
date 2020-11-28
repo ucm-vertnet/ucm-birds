@@ -1,0 +1,168 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 205
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Ireland ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Czechia ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 38
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 18
+	Country: Hong Kong ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 4
+	Date: 2020-09-08 ; Times: 3
+	Date: 2020-09-03 ; Times: 6
+	Date: 2020-09-02 ; Times: 5
+	Date: 2020-09-01 ; Times: 2
+	Date: 2020-09-07 ; Times: 6
+	Date: 2020-09-04 ; Times: 7
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-23 ; Times: 8
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-24 ; Times: 2
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-29 ; Times: 4
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-17 ; Times: 6
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 4
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 2
+	Query: "genus:Pinicola class:Aves year &lt;= 1887 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Charadrius alexandrinus" ; Times: 1
+	Query: "10122" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "Tympanuchus phasianellus hastissue:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Pygochelidon cyanoleuca" ; Times: 13
+	Query: "Buteogallus" ; Times: 2
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "class:Aves recordedby:Matthews" ; Times: 1
+	Query: "Amazilia cyanifrons" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "specificepithet:coronata genus:Setophaga year &gt;= 1701 year &lt;= 1901" ; Times: 1
+	Query: "genus:Eremophila class:Aves year &gt;= 1895 year &lt;= 1895" ; Times: 1
+	Query: "specificepithet:caudacutus genus:Ammodramus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 10
+	Query: "specificepithet:graciae genus:Setophaga" ; Times: 2
+	Query: "10815" ; Times: 3
+	Query: "buteogallus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Contopus sordidulus" ; Times: 1
+	Query: "Pericrocotus flammeus country:&#34;Sri Lanka&#34;" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "genus:Ammodramus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:trichas genus:Geothlypis stateprovince:&#34;Texas&#34; year &lt;= 1988" ; Times: 1
+	Query: "CMNH Birds" ; Times: 1
+	Query: "genus:Asio class:Aves year &gt;= 1915 year &lt;= 1915" ; Times: 1
+	Query: "vntype:specimen specificepithet:obsoletus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "El Paso Zoo" ; Times: 2
+	Query: "specificepithet:arcticus genus:Picoides" ; Times: 1
+	Query: "Micropternus brachyurus" ; Times: 1
+	Query: "Molothrus bonariensis" ; Times: 1
+	Query: "mappable:1 scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "15075" ; Times: 1
+	Query: "county:&#34;Harrison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "country:&#34;Colombia&#34; Tyrannus tyrannus" ; Times: 1
+	Query: "class:Aves recordedby:Matthews basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:enucleator genus:Pinicola class:Aves year &gt;= 1936 year &lt;= 1936 month &gt;= 10 month &lt;= 10" ; Times: 1
+	Query: "Falco columbarius hastissue:1" ; Times: 1
+	Query: "10815 aves" ; Times: 1
+	Query: "stateprovince:&#34;Missouri&#34; year &gt;= 1800 year &lt;= 1875" ; Times: 1
+	Query: "Hemiprocne coronata" ; Times: 1
+	Query: "specificepithet:thalassina genus:Tachycineta month &gt;= 8 month &lt;= 9 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "11923" ; Times: 1
+	Query: "specificepithet:trichas genus:Geothlypis stateprovince:&#34;Texas&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 976 download events in this period)
+Total number of records downloaded: 1209
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 21
+	Country: Australia ; Times: 5
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-13 ; Times: 6
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 4
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-18 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-24 ; Times: 3
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-04 ; Times: 3
+	Date: 2020-09-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "genus:Picoides specificepithet:.*" ; Times: 3
+	Query: "hirundo rustica" ; Times: 1
+	Query: "(Synthliboramphus)" ; Times: 1
+	Query: "order:Caprimulgiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Jackson" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "order:Galliformes hastissue:1" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "specificepithet:coronata genus:Setophaga year &gt;= 1701 year &lt;= 1901" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "specificepithet:caudacutus genus:Ammodramus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "order:Galliformes class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "order:Caprimulgiformes class:Aves preparations:Egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "sitta pygmaea OR sitta pusilla" ; Times: 1
+	Query: "order:Galliformes class:aves preparations:Egg" ; Times: 2
+	Query: "preparations:nest" ; Times: 1
+	Query: "specificepithet:minor genus:Parus class:Aves" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "specificepithet:thalassina genus:Tachycineta month &gt;= 8 month &lt;= 9 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+
+
+End of report.
