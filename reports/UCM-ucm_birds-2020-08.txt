@@ -1,0 +1,156 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 85
+Number of records retrieved in searches: 237
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 32
+	Country: Portugal ; Times: 11
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 34
+	Country: Colombia ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 2
+	Date: 2020-08-10 ; Times: 14
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-03 ; Times: 3
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-12 ; Times: 9
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-07 ; Times: 2
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 3
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-14 ; Times: 2
+	Date: 2020-08-11 ; Times: 9
+	Date: 2020-08-21 ; Times: 35
+
+List of queries that retrieved data from the resource: 
+	Query: "Ptychoramphus aleuticus" ; Times: 1
+	Query: "Anas acuta" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Aix sponsa 100" ; Times: 1
+	Query: "Psittacula alexandri" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Cheyenne Mountain Zoo" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "specificepithet:heliodor genus:Chaetocercus" ; Times: 2
+	Query: "locality:La Veta county:&#34;Huerfano&#34; stateprovince:&#34;Colorado&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Passerina cyanea hasmass:1" ; Times: 1
+	Query: "specificepithet:velox stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Larus delawarensis" ; Times: 1
+	Query: "Gracula religiosa" ; Times: 1
+	Query: "mappable:1 scientificname:Ramphastos sulfuratus" ; Times: 1
+	Query: "family:Trochilidae institutioncode:UCM hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Phasianus colchicus" ; Times: 1
+	Query: "Piranga olivacea" ; Times: 1
+	Query: "Piranga ludoviciana" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Pygochelidon cyanoleuca" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Turdus chrysolaus" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "genus:Pygochelidon" ; Times: 2
+	Query: "mappable:1 scientificname:Buteo regalis" ; Times: 1
+	Query: "specificepithet:aureliae genus:Haplophaedia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Oxypogon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Tachycineta thalassina" ; Times: 1
+	Query: "genus:Ocreatus country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "vntype:specimen specificepithet:viridicyanus genus:Cyanolyca" ; Times: 1
+	Query: "mappable:1 scientificname:Herpetotheres cachinnans" ; Times: 1
+	Query: "mappable:1 scientificname:Elanoides forficatus" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 1
+	Query: "Ixoreus naevius" ; Times: 1
+	Query: "specificepithet:grayi genus:Hylocharis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Haemorhous cassinii" ; Times: 1
+	Query: "genus:Pterophanes country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Piranga flava" ; Times: 1
+	Query: "mappable:1 scientificname:Ara macao" ; Times: 1
+	Query: "mappable:1 scientificname:Garrulax leucolophus" ; Times: 1
+	Query: "mappable:1 scientificname:Dolichonyx oryzivorus" ; Times: 1
+	Query: "Laterallus jamaicensis jamaicensis" ; Times: 1
+	Query: "Xema sabini" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona farinosa" ; Times: 1
+	Query: "specificepithet:heteropogon genus:Chalcostigma" ; Times: 2
+	Query: "specificepithet:gibsoni genus:Chlorostilbon country:&#34;Colombia&#34;" ; Times: 2
+	Query: "14370" ; Times: 2
+	Query: "specificepithet:goudoti genus:Lepidopyga country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Rallus San Luis" ; Times: 1
+	Query: "specificepithet:cyanifrons genus:Amazilia" ; Times: 2
+	Query: "mappable:1 scientificname:Lonchura malacca" ; Times: 1
+	Query: "A. pygmaea" ; Times: 1
+	Query: "Colius striatus" ; Times: 1
+	Query: "Chroicocephalus ridibundus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Piranga rubra" ; Times: 2
+	Query: "vntype:specimen specificepithet:chrysonotus genus:Cacicus" ; Times: 1
+	Query: "13097" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Buthraupis montana" ; Times: 1
+	Query: "Coale 1910" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 1
+	Query: "F. domesticus" ; Times: 1
+	Query: "specificepithet:goudoti genus:Lepidopyga" ; Times: 1
+	Query: "Falcipennis falcipennis" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "genus:Stephanoxis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:townsendi genus:Myadestes year &gt;= 1975 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 756 download events in this period)
+Total number of records downloaded: 436
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Australia ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2020" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "ensifera ensifera South America" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "locality:La Veta county:&#34;Huerfano&#34; stateprovince:&#34;Colorado&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "family:Trochilidae hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Cardinalis stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 2000" ; Times: 1
+	Query: "class:Aves country:&#34;South Africa&#34; continent:Africa" ; Times: 1
+	Query: "family:alcedinidae hastissue:1" ; Times: 1
+
+
+End of report.
