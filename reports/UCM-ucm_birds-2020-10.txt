@@ -1,0 +1,216 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 265
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 40
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 17
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 22
+	Country: Austria ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-20 ; Times: 18
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-12 ; Times: 3
+	Date: 2020-10-13 ; Times: 39
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-04 ; Times: 3
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-01 ; Times: 2
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-30 ; Times: 2
+	Date: 2020-10-28 ; Times: 4
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "Ptychoramphus aleuticus" ; Times: 1
+	Query: "Anas acuta" ; Times: 1
+	Query: "specificepithet:aedon genus:troglodytes stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "preparations:nest year &gt;= 1300 year &lt;= 1870" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Turdus chrysolaus" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "wing chord specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Himantopus himantopus" ; Times: 1
+	Query: "threatened species" ; Times: 1
+	Query: "Rupicola peruvianus" ; Times: 2
+	Query: "UCM 11118" ; Times: 1
+	Query: "Larus delawarensis" ; Times: 1
+	Query: "cyanifrons colombia" ; Times: 1
+	Query: "genus:Ammodramus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "wing chord specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "HK 364" ; Times: 2
+	Query: "wing chord specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "genus:Pipilo class:Aves year &gt;= 1981 year &lt;= 1988" ; Times: 1
+	Query: "wing chord specificepithet:canadensis genus:Branta continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "mappable:1 scientificname:Herpetotheres cachinnans" ; Times: 2
+	Query: "wing chord specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "Himantopus mexicanus" ; Times: 1
+	Query: "tachycineta bicolor hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "class:Aves country:&#34;United States&#34; basisofrecord:PreservedSpecimen distance(location,geopoint(41.04199170929545,-106.17365311598718))&lt;46503" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "Sterna dougallii" ; Times: 1
+	Query: "scientificname:Ortalis vetula" ; Times: 1
+	Query: "genus:passer country:&#34;United States&#34; year &gt;= 1800 year &lt;= 1870" ; Times: 1
+	Query: "Tyrannus dominicensis" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "crypturellus obsoletus" ; Times: 1
+	Query: "wing chord specificepithet:cardinalis genus:Cardinalis continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 1
+	Query: "order:Passeriformes country:&#34;United States&#34; basisofrecord:PreservedSpecimen distance(location,geopoint(41.04199170929545,-106.17365311598718))&lt;46503" ; Times: 1
+	Query: "order:passeriformes lifestage:adult institutioncode:UCM hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:cooperii genus:Accipiter continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "12803" ; Times: 2
+	Query: "wing chord specificepithet:tristis genus:Spinus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "genus:gallinago haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 1
+	Query: "specificepithet:tristis genus:Spinus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Chroicocephalus ridibundus" ; Times: 2
+	Query: "Branta bernicla" ; Times: 1
+	Query: "wing chord specificepithet:aurocapilla genus:Seiurus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "preparations:nest year &gt;= 1300 year &lt;= 1817" ; Times: 1
+	Query: "wing chord specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:sponsa genus:Aix continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "&#34;W. L. Breese&#34;" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 16
+	Query: "Collins 1888" ; Times: 2
+	Query: "Snow 1920" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "Xema sabini" ; Times: 1
+	Query: "wing chord specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:aurocapilla genus:Seiurus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:aurocapilla genus:Seiurus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:albicollis genus:Zonotrichia continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 1521 download events in this period)
+Total number of records downloaded: 624
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 52
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 3
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-20 ; Times: 40
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 1
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-23 ; Times: 8
+	Date: 2020-10-15 ; Times: 3
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "vntype:specimen order:Bucerotiformes" ; Times: 1
+	Query: "wing chord specificepithet:canadensis genus:Branta continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:tristis genus:Spinus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1" ; Times: 2
+	Query: "specificepithet:sponsa genus:Aix continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rupicola peruvianus" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:sparverius genus:Falco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:sparverius genus:Falco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "tachycineta bicolor hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa year &gt;= 1950 year &lt;= 2020 hassex:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "wing chord specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "vntype:specimen (birds) hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Melanerpes country:&#34;México&#34;" ; Times: 2
+	Query: "wing chord specificepithet:canadensis genus:Branta continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Alcidae year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "wing chord specificepithet:cooperii genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "tachycineta bicolor hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "wing chord specificepithet:sparverius genus:Falco continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen family:Ramphastidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:minor genus:Parus" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "crypturellus obsoletus" ; Times: 2
+	Query: "wing chord specificepithet:cardinalis genus:Cardinalis continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "skin vntype:specimen genus:Nucifraga columbiana country:&#34;United States&#34;" ; Times: 1
+	Query: "wing chord specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:cooperii genus:Accipiter continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "vntype:specimen family:Bucerotidae" ; Times: 1
+	Query: "wing chord specificepithet:melodia genus:Melospiza continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "wing chord specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "genus:gallinago haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "order:passeriformes lifestage:adult hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:tristis genus:Spinus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:aurocapilla genus:Seiurus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "preparations:nest year &gt;= 1300 year &lt;= 1817" ; Times: 1
+	Query: "wing chord specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Phasianidae class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Trochilidae class:Aves preparations:Egg" ; Times: 1
+	Query: "passer domesticus oklahoma" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+	Query: "specificepithet:aurocapilla genus:Seiurus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:aurocapilla genus:Seiurus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:cooperii genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:albicollis genus:Zonotrichia continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "Pseudocolaptes boissonneautii" ; Times: 1
+
+
+End of report.
