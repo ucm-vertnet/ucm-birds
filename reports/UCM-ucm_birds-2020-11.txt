@@ -1,0 +1,146 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 166
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 19
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: France ; Times: 2
+	Country: United States ; Times: 23
+	Country: Germany ; Times: 3
+	Country: Ecuador ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 2
+	Date: 2020-11-21 ; Times: 4
+	Date: 2020-11-22 ; Times: 7
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-18 ; Times: 3
+	Date: 2020-11-26 ; Times: 3
+	Date: 2020-11-06 ; Times: 3
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-02 ; Times: 15
+	Date: 2020-11-03 ; Times: 3
+	Date: 2020-11-10 ; Times: 11
+	Date: 2020-11-15 ; Times: 3
+	Date: 2020-11-14 ; Times: 1
+	Date: 2020-11-17 ; Times: 4
+	Date: 2020-11-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:jamaicensis genus:Laterallus" ; Times: 3
+	Query: "specificepithet:thalassina genus:tachycineta year &gt;= 1970 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 4
+	Query: "Acrocephalus arundinaceus" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "UCM 10761" ; Times: 2
+	Query: "12415" ; Times: 2
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "aves melanothorax cyprus" ; Times: 1
+	Query: "13425" ; Times: 1
+	Query: "specificepithet:alba genus:tyto lengthtype:total length hassex:1 hasmass:1" ; Times: 1
+	Query: "pharomachrus mocinno study skin" ; Times: 1
+	Query: "specificepithet:alba genus:tyto lengthtype:total length hasmass:1" ; Times: 1
+	Query: "Porphyrio martinica stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "scientificname:Laterallus jamaicensis" ; Times: 1
+	Query: "Acrocephalus orientalis" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Setophaga striata" ; Times: 3
+	Query: "Falco columbarius" ; Times: 2
+	Query: "Tachycineta thalassina" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;Japan&#34;" ; Times: 1
+	Query: "Koch" ; Times: 1
+	Query: "specificepithet:alba genus:tyto lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "Phoenicurus auroreus" ; Times: 1
+	Query: "UCM 5973" ; Times: 3
+	Query: "tarsus specificepithet:canadensis genus:Branta lifestage:adult" ; Times: 1
+	Query: "El Paso Zoo" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "ara macao" ; Times: 2
+	Query: "Spizaetus" ; Times: 1
+	Query: "scientificname:Rupicola peruvianus*" ; Times: 1
+	Query: "Dendrocopos major" ; Times: 2
+	Query: "Passerina amoena" ; Times: 1
+	Query: "fuscobrunneus" ; Times: 1
+	Query: "Columba livia" ; Times: 2
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "14187" ; Times: 2
+	Query: "numenius borealis" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "specificepithet:alba genus:tyto hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Andigena laminirostris" ; Times: 2
+	Query: "tarsus specificepithet:canadensis genus:Branta" ; Times: 1
+	Query: "sterna dougallii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 842 download events in this period)
+Total number of records downloaded: 611
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 1
+	Date: 2020-11-21 ; Times: 1
+	Date: 2020-11-25 ; Times: 1
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-09 ; Times: 3
+	Date: 2020-11-06 ; Times: 2
+	Date: 2020-11-07 ; Times: 2
+	Date: 2020-11-17 ; Times: 3
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-10 ; Times: 13
+	Date: 2020-11-03 ; Times: 7
+	Date: 2020-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:thalassina genus:tachycineta year &gt;= 1970 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:bicolor genus:Baeolophus" ; Times: 2
+	Query: "vntype:specimen specificepithet:Lagopus genus:Lagopus" ; Times: 2
+	Query: "specificepithet:alba genus:tyto hassex:1 haslength:1" ; Times: 1
+	Query: "Psiloscops flammeolus" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "pharomachrus mocinno study skin" ; Times: 1
+	Query: "Porphyrio martinica stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gnoma genus:Glaucidium" ; Times: 1
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:corniculata genus:Fratercula" ; Times: 2
+	Query: "specificepithet:stelleri genus:cyanocitta country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:setophaga" ; Times: 2
+	Query: "specificepithet:petechia" ; Times: 1
+	Query: "vntype:specimen specificepithet:Gnoma genus:Glaucidium" ; Times: 2
+	Query: "specificepithet:alba genus:tyto lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:clangula" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 2021" ; Times: 1
+	Query: "specificepithet:sasin genus:selasphorus" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:Setophaga" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Lagopus" ; Times: 3
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 1999" ; Times: 1
+
+
+End of report.
