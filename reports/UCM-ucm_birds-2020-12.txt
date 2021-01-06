@@ -1,0 +1,176 @@
+Report for Institution Code UCM, Resource ucm_birds
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 346
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 15
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 32
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 43
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-20 ; Times: 7
+	Date: 2020-12-22 ; Times: 4
+	Date: 2020-12-03 ; Times: 3
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-02 ; Times: 4
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-07 ; Times: 4
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-19 ; Times: 3
+	Date: 2020-12-06 ; Times: 6
+	Date: 2020-12-08 ; Times: 4
+	Date: 2020-12-10 ; Times: 4
+	Date: 2020-12-11 ; Times: 22
+	Date: 2020-12-04 ; Times: 34
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-01 ; Times: 6
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "setophaga coronata x auduboni" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "mappable:1 scientificname:Myiarchus tyrannulus" ; Times: 1
+	Query: "order:Passeriformes country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2020 haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "mappable:1 scientificname:Aramides cajanea" ; Times: 1
+	Query: "Turdus chrysolaus" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "R. W. Chadwick" ; Times: 1
+	Query: "mappable:1 scientificname:Arenaria interpres" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 2
+	Query: "Pelecanus occidentalis" ; Times: 1
+	Query: "Serinus canaria" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Piranga ludoviciana" ; Times: 2
+	Query: "Haemorhous cassinii" ; Times: 1
+	Query: "mappable:1 scientificname:Cathartes aura" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "mappable:1 scientificname:Tyrannus melancholicus" ; Times: 1
+	Query: "mappable:1 scientificname:Chordeiles acutipennis" ; Times: 1
+	Query: "class:Aves country:Brazil" ; Times: 1
+	Query: "vntype:specimen specificepithet:dominica genus:Setophaga haslength:1" ; Times: 1
+	Query: "class:aves locality:Pascagoula" ; Times: 1
+	Query: "E.5616.A" ; Times: 1
+	Query: "mappable:1 scientificname:Molothrus bonariensis" ; Times: 1
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "mappable:1 scientificname:Myiarchus tuberculifer" ; Times: 1
+	Query: "Fulica americana" ; Times: 1
+	Query: "mappable:1 scientificname:Buteogallus urubitinga" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "Buteo lineatus" ; Times: 1
+	Query: "tinamidae" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus" ; Times: 1
+	Query: "mappable:1 scientificname:Spizaetus ornatus" ; Times: 1
+	Query: "vntype:specimen class:AVES recordedby:Magoon" ; Times: 1
+	Query: "mappable:1 scientificname:Rallus longirostris" ; Times: 1
+	Query: "12880" ; Times: 1
+	Query: "Spiza americana" ; Times: 1
+	Query: "mappable:1 scientificname:Actitis macularius" ; Times: 2
+	Query: "Crypturellus" ; Times: 1
+	Query: "Molothrus bonariensis" ; Times: 1
+	Query: "Passerina amoena" ; Times: 2
+	Query: "Buthraupis montana" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 3
+	Query: "mappable:1 scientificname:Amazona farinosa" ; Times: 2
+	Query: "mappable:1 scientificname:Ixobrychus exilis" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "mappable:1 scientificname:Polioptila plumbea" ; Times: 1
+	Query: "Eophona personata" ; Times: 2
+	Query: "specificepithet:breweri genus:spizella stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Myiozetetes cayanensis" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 4
+	Query: "Branta canadensis" ; Times: 1
+	Query: "vntype:specimen class:AVES recordedby:Bendire" ; Times: 1
+	Query: "mappable:1 scientificname:Elanoides forficatus" ; Times: 1
+	Query: "emmae" ; Times: 1
+	Query: "Piranga flava" ; Times: 1
+	Query: "colaptes auratus x cafer" ; Times: 3
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "class:Aves country:Brazil continent:South America" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "bird son" ; Times: 1
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 1
+	Query: "mappable:1 scientificname:Anhinga anhinga" ; Times: 2
+	Query: "Molothrus aeneus" ; Times: 1
+	Query: "Icteria virens" ; Times: 2
+	Query: "Pharomachrus auriceps" ; Times: 1
+	Query: "Piranga olivacea" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Spinus pinus" ; Times: 1
+	Query: "Amazona autumnalis vntype:specimen" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 2
+	Query: "Plectrophenax nivalis" ; Times: 1
+	Query: "mappable:1 scientificname:Herpetotheres cachinnans" ; Times: 1
+	Query: "aves ega" ; Times: 1
+	Query: "specificepithet:cyanea genus:passerina year &gt;= 2010 year &lt;= 2020 haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella stateprovince:&#34;colorado&#34;" ; Times: 3
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "mappable:1 scientificname:Megaceryle torquata" ; Times: 1
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "Acanthis flammea" ; Times: 2
+	Query: "mappable:1 scientificname:Athene cunicularia" ; Times: 4
+	Query: "Steatornis caripensis" ; Times: 1
+	Query: "mappable:1 scientificname:Crypturellus obsoletus" ; Times: 2
+	Query: "Piranga rubra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 705 download events in this period)
+Total number of records downloaded: 1566
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 9
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-03 ; Times: 4
+	Date: 2020-12-02 ; Times: 4
+	Date: 2020-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "family:Trochilidae preparations:wing" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:dominica genus:Setophaga" ; Times: 2
+	Query: "genus:Anas" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 4
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "vntype:specimen class:Aves year &gt;= 1750 year &lt;= 1820 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves country:Brazil" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+	Query: "class:aves locality:Pascagoula" ; Times: 1
+
+
+End of report.
